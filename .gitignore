@@ -1,0 +1,28 @@
+# Dependencies and generated frontend output
+node_modules/
+dist/
+coverage/
+*.log
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# .NET build and publish output
+bin/
+obj/
+publish/
+artifacts/
+/wwwroot/
+portable/public/
+portable/engine.mjs
+public/assets/aistudio/
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.user
+*.suo

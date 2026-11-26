@@ -1,0 +1,3242 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "category": "space",
+    "categoryLabel": "نجوم و فضا",
+    "bgTheme": "space",
+    "bgImageKey": "mars_planet",
+    "motifLabel": "سیاره سرخ مریخ",
+    "question": "کدام سیاره در منظومه شمسی به «سیاره سرخ» شهرت دارد؟",
+    "options": [
+      "زهره",
+      "مریخ",
+      "مشتری",
+      "عطارد"
+    ],
+    "correctIndex": 1,
+    "explanation": "مریخ به دلیل فراوانی اکسید آهن (زنگ‌آهن) در خاک و صخره‌های سطحی‌اش، از دور به رنگ سرخ مایل به نارنجی دیده می‌شود."
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "category": "geography",
+    "categoryLabel": "جغرافیا و زمین",
+    "bgTheme": "geography",
+    "bgImageKey": "deep_ocean",
+    "motifLabel": "اقیانوس‌های زمین",
+    "question": "بزرگ‌ترین اقیانوس کره زمین کدام است؟",
+    "options": [
+      "اقیانوس اطلس",
+      "اقیانوس هند",
+      "اقیانوس آرام",
+      "اقیانوس منجمد شمالی"
+    ],
+    "correctIndex": 2,
+    "explanation": "اقیانوس آرام با وسعتی بیش از ۱۶۵ میلیون کیلومتر مربع، بزرگ‌ترین و عمیق‌ترین اقیانوس جهان است و بیش از یک‌سوم مساحت زمین را می‌پوشاند."
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "category": "tech",
+    "categoryLabel": "فناوری و کامپیوتر",
+    "bgTheme": "tech",
+    "bgImageKey": "cpu_chip",
+    "motifLabel": "پردازنده مرکزی CPU",
+    "question": "اصلی‌ترین قطعه پردازش داده‌ها در رایانه که به عنوان مغز کامپیوتر شناخته می‌شود چیست؟",
+    "options": [
+      "رم (RAM)",
+      "سی‌پی‌یو (CPU)",
+      "کارت گرافیک (GPU)",
+      "هارد دیسک (HDD)"
+    ],
+    "correctIndex": 1,
+    "explanation": "واحد پردازش مرکزی (CPU) وظیفه تفسیر، محاسبه و اجرای دستورالعمل‌های تمام برنامه‌ها را بر عهده دارد."
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "category": "science",
+    "categoryLabel": "زیست‌شناسی",
+    "bgTheme": "science",
+    "bgImageKey": "dna_biology",
+    "motifLabel": "سلول گیاهی و کلروپلاست",
+    "question": "عمل فوتوسنتز در گیاهان عمدتاً در کدام بخش سلول گیاهی رخ می‌دهد؟",
+    "options": [
+      "کلروپلاست",
+      "میتوکندری",
+      "هسته",
+      "دیواره سلولی"
+    ],
+    "correctIndex": 0,
+    "explanation": "کلروپلاست‌ها حاوی رنگدانه سبز کلروفیل هستند که نور خورشید را برای تبدیل دی‌اکسید کربن و آب به قند جذب می‌کنند."
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "category": "geography",
+    "categoryLabel": "جغرافیا و کوهستان",
+    "bgTheme": "geography",
+    "bgImageKey": "everest_peaks",
+    "motifLabel": "قله اورست و هیمالیا",
+    "question": "بلندترین قله کوهستانی کره زمین کدام است؟",
+    "options": [
+      "کی۲ (K2)",
+      "اورست (Everest)",
+      "دماوند",
+      "کانچن‌جونگا"
+    ],
+    "correctIndex": 1,
+    "explanation": "قله اورست در رشته‌کوه هیمالیا با ارتفاع ۸۸۴۸٫۸۶ متر از سطح دریا، بلندترین نقطه کره زمین است."
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "category": "arts_math",
+    "categoryLabel": "ادبیات و فرهنگ",
+    "bgTheme": "arts_math",
+    "bgImageKey": "arts_math",
+    "motifLabel": "حماسه شاهنامه فارسی",
+    "question": "سراینده شاهنامه، حماسه ملی ایران، کیست؟",
+    "options": [
+      "سعدی شیرازی",
+      "حافظ شیرازی",
+      "ابوالقاسم فردوسی",
+      "نظامی گنجوی"
+    ],
+    "correctIndex": 2,
+    "explanation": "حکیم ابوالقاسم فردوسی در قرن چهارم و پنجم هجری با بیش از ۳۰ سال تلاش، شاهنامه را برای جاودانگی زبان فارسی سرود."
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "category": "science",
+    "categoryLabel": "شیمی و اتمسفر",
+    "bgTheme": "science",
+    "bgImageKey": "science",
+    "motifLabel": "شیمی جو زمین",
+    "question": "کدام گاز بیشترین درصد حجم هوای جو زمین را تشکیل می‌دهد؟",
+    "options": [
+      "اکسیژن",
+      "نیتروژن (ازت)",
+      "دی‌اکسید کربن",
+      "هیدروژن"
+    ],
+    "correctIndex": 1,
+    "explanation": "حدود ۷۸ درصد از اتمسفر زمین از گاز نیتروژن، ۲۱ درصد اکسیژن و ۱ درصد سایر گازها تشکیل شده است."
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "category": "tech",
+    "categoryLabel": "وب و اینترنت",
+    "bgTheme": "tech",
+    "bgImageKey": "tech",
+    "motifLabel": "ساختار صفحات وب",
+    "question": "پسوند استاندارد فایل‌های صفحات وب چیست؟",
+    "options": [
+      ".html",
+      ".mp3",
+      ".exe",
+      ".pdf"
+    ],
+    "correctIndex": 0,
+    "explanation": "فایل‌های HTML (زبان نشانه‌گذاری فرامتن) ساختار پایه تمام صفحات وب در مرورگرها را تعریف می‌کنند."
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "category": "science",
+    "categoryLabel": "آناتومی انسان",
+    "bgTheme": "science",
+    "bgImageKey": "dna_biology",
+    "motifLabel": "زیست‌شناسی و بدن انسان",
+    "question": "یک انسان بالغ به طور استاندارد چند دندان دائمی دارد؟",
+    "options": [
+      "۲۸ عدد",
+      "۳۲ عدد",
+      "۳۶ عدد",
+      "۳۰ عدد"
+    ],
+    "correctIndex": 1,
+    "explanation": "یک فرد بالغ در صورت رشد کامل دندان‌های عقل، دارای ۳۲ دندان دائمی (۱۶ دندان در هر فک) است."
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "category": "geography",
+    "categoryLabel": "جغرافیای سیاسی",
+    "bgTheme": "geography",
+    "bgImageKey": "geography",
+    "motifLabel": "نقشه پایتخت‌های جهان",
+    "question": "پایتخت کشور استرالیا کدام شهر است؟",
+    "options": [
+      "سیدنی",
+      "ملبورن",
+      "کانبرا",
+      "بریزبن"
+    ],
+    "correctIndex": 2,
+    "explanation": "اگرچه سیدنی و ملبورن مشهورتر و بزرگ‌ترند، شهر کانبرا به عنوان پایتخت فدرال استرالیا برگزیده شد."
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "category": "science",
+    "categoryLabel": "زمین و کانی‌ها",
+    "bgTheme": "science",
+    "bgImageKey": "crystal_chemistry",
+    "motifLabel": "ساختار بلور الماس",
+    "question": "سخت‌ترین ماده طبیعی شناخته‌شده بر روی کره زمین کدام است؟",
+    "options": [
+      "فولاد",
+      "الماس",
+      "کوارتز",
+      "تیتانیوم"
+    ],
+    "correctIndex": 1,
+    "explanation": "الماس با ساختار بلوری کربن، بالاترین رتبه سختی (۱۰ از ۱۰ در مقیاس موس) را در میان مواد طبیعی دارد."
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "category": "tech",
+    "categoryLabel": "مهارت‌های دیجیتال",
+    "bgTheme": "tech",
+    "bgImageKey": "cpu_chip",
+    "motifLabel": "فرمان‌های سیستم و کلید میانبر",
+    "question": "کلید میانبر استاندارد برای کپی کردن متن در اکثر سیستم‌ها چیست؟",
+    "options": [
+      "Ctrl + C",
+      "Ctrl + V",
+      "Ctrl + Z",
+      "Ctrl + X"
+    ],
+    "correctIndex": 0,
+    "explanation": "ترکیب Ctrl+C برای کپی (Copy) و Ctrl+V برای چسباندن (Paste) محتوا به کار می‌رود."
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "category": "space",
+    "categoryLabel": "نجوم و فضا",
+    "bgTheme": "space",
+    "bgImageKey": "space",
+    "motifLabel": "ستاره منظومه و رصدخانه",
+    "question": "نزدیک‌ترین ستاره به کره زمین کدام است؟",
+    "options": [
+      "پروکسیما قنطورس",
+      "خورشید",
+      "شعرای یمانی",
+      "ستاره قطبی"
+    ],
+    "correctIndex": 1,
+    "explanation": "خورشید در فاصله حدود ۱۵۰ میلیون کیلومتری از زمین، نزدیک‌ترین ستاره به سیاره ما است و نور آن حدود ۸ دقیقه بعد به زمین می‌رسد."
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "category": "history",
+    "categoryLabel": "تاریخ و تمدن",
+    "bgTheme": "history",
+    "bgImageKey": "pyramids_egypt",
+    "motifLabel": "اهرام ثلاثه جیزه مصر",
+    "question": "اهرام ثلاثه جیزه در کدام کشور باستانی ساخته شده‌اند؟",
+    "options": [
+      "عراق",
+      "یونان",
+      "مصر",
+      "ایران"
+    ],
+    "correctIndex": 2,
+    "explanation": "اهرام سه‌گانه جیزه در نزدیکی قاهره مصر و حدود ۴۵۰۰ سال پیش به عنوان آرامگاه فراعنه ساخته شدند."
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "category": "arts_math",
+    "categoryLabel": "هندسه پایه",
+    "bgTheme": "arts_math",
+    "bgImageKey": "arts_math",
+    "motifLabel": "هندسه اقلیدسی",
+    "question": "مجموع زوایای داخلی یک مثلث در هندسه اقلیدسی همیشه چند درجه است؟",
+    "options": [
+      "۹۰ درجه",
+      "۱۸۰ درجه",
+      "۲۷۰ درجه",
+      "۳۶۰ درجه"
+    ],
+    "correctIndex": 1,
+    "explanation": "در هندسه مسطحه (اقلیدسی)، مجموع سه زاویه داخلی هر مثلث دقیقاً برابر با ۱۸۰ درجه است."
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "category": "history",
+    "categoryLabel": "تاریخ علم",
+    "bgTheme": "history",
+    "bgImageKey": "persepolis_iran",
+    "motifLabel": "تمدن و دانشمندان ایران",
+    "question": "پدر علم پزشکی نوین و نویسنده کتاب «قانون در طب» کیست؟",
+    "options": [
+      "زکریای رازی",
+      "ابوعلی سینا",
+      "جالینوس",
+      "بقراط"
+    ],
+    "correctIndex": 1,
+    "explanation": "شیخ‌الرئیس ابوعلی سینا کتاب «قانون در طب» را تألیف کرد که تا سده‌ها به عنوان مرجع اصلی پزشکی در دانشگاه‌های شرق و غرب تدریس می‌شد."
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "category": "geography",
+    "categoryLabel": "جغرافیای ایران",
+    "bgTheme": "geography",
+    "bgImageKey": "deep_ocean",
+    "motifLabel": "پهنه آبی دریای خزر",
+    "question": "بزرگ‌ترین دریاچه بسته جهان که در شمال ایران قرار دارد کدام است؟",
+    "options": [
+      "دریاچه ارومیه",
+      "دریاچه خزر (کاسپین)",
+      "دریاچه وان",
+      "دریاچه بایکال"
+    ],
+    "correctIndex": 1,
+    "explanation": "دریاچه خزر (کاسپین) با مساحتی بیش از ۳۷۱ هزار کیلومتر مربع، بزرگ‌ترین دریاچه بسته (محصور در خشکی) کره زمین است."
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "category": "space",
+    "categoryLabel": "نجوم و فضا",
+    "bgTheme": "space",
+    "bgImageKey": "space",
+    "motifLabel": "سیاره مشتری و غول‌های گازی",
+    "question": "بزرگ‌ترین سیاره منظومه شمسی کدام است؟",
+    "options": [
+      "زحل",
+      "مشتری",
+      "اورانوس",
+      "نپتون"
+    ],
+    "correctIndex": 1,
+    "explanation": "سیاره مشتری یک غول گازی است و حجمی بیش از ۱۳۰۰ برابر کره زمین دارد."
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "category": "tech",
+    "categoryLabel": "فناوری و کامپیوتر",
+    "bgTheme": "tech",
+    "bgImageKey": "cpu_chip",
+    "motifLabel": "تراشه و سیستم باینری",
+    "question": "یک بایت (Byte) در حافظه کامپیوتر معادل چند بیت (Bit) است؟",
+    "options": [
+      "۴ بیت",
+      "۸ بیت",
+      "۱۶ بیت",
+      "۱۰ بیت"
+    ],
+    "correctIndex": 1,
+    "explanation": "هر بایت از ۸ بیت تشکیل شده که می‌تواند ۲۵۶ حالت مختلف (از ۰ تا ۲۵۵) را نمایش دهد."
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "category": "arts_math",
+    "categoryLabel": "موسیقی و هنر",
+    "bgTheme": "arts_math",
+    "bgImageKey": "persepolis_iran",
+    "motifLabel": "معماری تاریخی اصفهان",
+    "question": "میدان تاریخی نقش جهان در کدام شهر ایران قرار دارد؟",
+    "options": [
+      "شیراز",
+      "اصفهان",
+      "یزد",
+      "تبریز"
+    ],
+    "correctIndex": 1,
+    "explanation": "میدان نقش جهان اصفهان در دوران صفویه ساخته شد و یکی از بزرگ‌ترین و زیباترین میادین ثبت‌شده در میراث جهانی یونسکو است."
+  },
+  {
+    "id": 21,
+    "difficulty": "medium",
+    "category": "science",
+    "categoryLabel": "علوم زیستی",
+    "bgTheme": "science",
+    "bgImageKey": "dna_biology",
+    "motifLabel": "هموگلوبین و خون‌رسانی",
+    "question": "پروتئین اصلی حامل اکسیژن در گلبول‌های قرمز خون چه نام دارد؟",
+    "options": [
+      "انسولین",
+      "هموگلوبین",
+      "کلاژن",
+      "پپسین"
+    ],
+    "correctIndex": 1,
+    "explanation": "هموگلوبین با داشتن اتم‌های آهن، اکسیژن را از ریه‌ها جذب کرده و به تمامی بافت‌ها و سلول‌های بدن می‌رساند."
+  },
+  {
+    "id": 22,
+    "difficulty": "medium",
+    "category": "history",
+    "categoryLabel": "تاریخ فناوری",
+    "bgTheme": "history",
+    "bgImageKey": "history",
+    "motifLabel": "اختراع دستگاه چاپ گوتنبرگ",
+    "question": "اختراع دستگاه چاپ متحرک در اروپا توسط چه کسی و در چه قرنی انجام شد؟",
+    "options": [
+      "یوهانس گوتنبرگ (قرن ۱۵)",
+      "لئوناردو داوینچی (قرن ۱۶)",
+      "گالیله (قرن ۱۷)",
+      "نیوتن (قرن ۱۷)"
+    ],
+    "correctIndex": 0,
+    "explanation": "یوهانس گوتنبرگ در حدود سال ۱۴۴۰ میلادی با اختراع حروف متحرک فلزی، انقلاب بزرگی در انتشار دانش پدید آورد."
+  },
+  {
+    "id": 23,
+    "difficulty": "medium",
+    "category": "tech",
+    "categoryLabel": "امنیت شبکه",
+    "bgTheme": "tech",
+    "bgImageKey": "network_ai",
+    "motifLabel": "پروتکل امن HTTPS و رمزنگاری",
+    "question": "کدام پروتکل اینترنتی برای برقراری ارتباط امن و رمزنگاری‌شده بین مرورگر و سرور استفاده می‌شود؟",
+    "options": [
+      "HTTP",
+      "FTP",
+      "HTTPS",
+      "SMTP"
+    ],
+    "correctIndex": 2,
+    "explanation": "پروتکل HTTPS از طریق رمزنگاری TLS/SSL از شنود و دستکاری اطلاعات مبادله‌شده کاربران جلوگیری می‌کند."
+  },
+  {
+    "id": 24,
+    "difficulty": "medium",
+    "category": "space",
+    "categoryLabel": "فیزیک و فضا",
+    "bgTheme": "space",
+    "bgImageKey": "einstein_physics",
+    "motifLabel": "نسبیت اینشتین و سرعت نور",
+    "question": "سرعت تقریبی نور در خلأ چقدر است؟",
+    "options": [
+      "۳۰۰٬۰۰۰ کیلومتر بر ساعت",
+      "۳۰۰٬۰۰۰ کیلومتر بر ثانیه",
+      "۱۵۰٬۰۰۰ کیلومتر بر ثانیه",
+      "۳٬۰۰۰٬۰۰۰ متر بر ثانیه"
+    ],
+    "correctIndex": 1,
+    "explanation": "سرعت نور در خلأ دقیقاً ۲۹۹٬۷۹۲٬۴۵۸ متر بر ثانیه (تقریباً ۳۰۰ هزار کیلومتر در ثانیه) است که حد نهایی سرعت در جهان به شمار می‌آید."
+  },
+  {
+    "id": 25,
+    "difficulty": "medium",
+    "category": "science",
+    "categoryLabel": "تغذیه و زیست",
+    "bgTheme": "science",
+    "bgImageKey": "science",
+    "motifLabel": "زیست‌شیمی ویتامین آفتاب",
+    "question": "کدام ویتامین به دلیل تولید در پوست بر اثر تابش نور خورشید به «ویتامین آفتاب» معروف است؟",
+    "options": [
+      "ویتامین C",
+      "ویتامین A",
+      "ویتامین D",
+      "ویتامین B12"
+    ],
+    "correctIndex": 2,
+    "explanation": "پوست انسان هنگام قرار گرفتن در معرض اشعه فرابنفش B خورشید، ویتامین D را تولید می‌کند که برای جذب کلسیم و سلامت استخوان‌ها ضروری است."
+  },
+  {
+    "id": 26,
+    "difficulty": "medium",
+    "category": "tech",
+    "categoryLabel": "برنامه‌نویسی وب",
+    "bgTheme": "tech",
+    "bgImageKey": "tech",
+    "motifLabel": "کدنویسی وب و جاوااسکریپت",
+    "question": "کدام زبان برنامه‌نویسی به عنوان زبان اصلی برای تعاملی کردن صفحات وب در مرورگر شناخته می‌شود؟",
+    "options": [
+      "جاوااسکریپت (JavaScript)",
+      "پایتون (Python)",
+      "سی‌پلاس‌پلاس (++C)",
+      "پی‌اچ‌پی (PHP)"
+    ],
+    "correctIndex": 0,
+    "explanation": "جاوااسکریپت زبان استاندارد تمام مرورگرهای مدرن وب برای ساخت صفحات پویا، انیمیشن‌ها و تعامل با کاربر است."
+  },
+  {
+    "id": 27,
+    "difficulty": "medium",
+    "category": "geography",
+    "categoryLabel": "جغرافیا",
+    "bgTheme": "geography",
+    "bgImageKey": "deep_ocean",
+    "motifLabel": "رودهای بزرگ و نیل",
+    "question": "طولانی‌ترین رود جهان کدام است؟",
+    "options": [
+      "رود آمازون",
+      "رود نیل",
+      "رود یانگ‌تسه",
+      "رود می‌سی‌سی‌پی"
+    ],
+    "correctIndex": 1,
+    "explanation": "رود نیل در قاره آفریقا با طولی حدود ۶۶۵۰ کیلومتر معمولاً به عنوان طولانی‌ترین رود کره زمین شناخته می‌شود (اگرچه آمازون پرآب‌ترین رود است)."
+  },
+  {
+    "id": 28,
+    "difficulty": "medium",
+    "category": "science",
+    "categoryLabel": "شیمی پایه",
+    "bgTheme": "science",
+    "bgImageKey": "crystal_chemistry",
+    "motifLabel": "عنصر طلا در جدول تناوبی",
+    "question": "نماد شیمیایی عنصر طلا در جدول تناوبی چیست؟",
+    "options": [
+      "Ag",
+      "Au",
+      "Fe",
+      "Cu"
+    ],
+    "correctIndex": 1,
+    "explanation": "نماد Au از واژه لاتین Aurum به معنای «درخشش سپیده‌دم» گرفته شده است. (Ag برای نقره و Fe برای آهن است)."
+  },
+  {
+    "id": 29,
+    "difficulty": "medium",
+    "category": "tech",
+    "categoryLabel": "هوش مصنوعی",
+    "bgTheme": "tech",
+    "bgImageKey": "network_ai",
+    "motifLabel": "شبکه عصبی و هوش مصنوعی",
+    "question": "کلمه AI مخفف کدام عبارت در زبان انگلیسی است؟",
+    "options": [
+      "Automated Intelligence",
+      "Artificial Intelligence",
+      "Advanced Interface",
+      "Applied Information"
+    ],
+    "correctIndex": 1,
+    "explanation": "عبارت Artificial Intelligence به معنای «هوش مصنوعی» است و به سامانه‌های رایانه‌ای قادر به شبیه‌سازی هوش انسانی اشاره دارد."
+  },
+  {
+    "id": 30,
+    "difficulty": "medium",
+    "category": "arts_math",
+    "categoryLabel": "هنر و نقاشی",
+    "bgTheme": "arts_math",
+    "bgImageKey": "renaissance_art",
+    "motifLabel": "آتلیه رنسانس و داوینچی",
+    "question": "تابلوی مشهور «لبخند ژوکوند» (مونا لیزا) اثر کدام هنرمند برجسته رنسانس است؟",
+    "options": [
+      "میکل‌آنژ",
+      "لئوناردو داوینچی",
+      "رافائل",
+      "ون‌گوگ"
+    ],
+    "correctIndex": 1,
+    "explanation": "این شاهکار نقاشی رنگ روغن در اوایل قرن شانزدهم توسط لئوناردو داوینچی خلق شد و اکنون در موزه لوور پاریس نگهداری می‌شود."
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "category": "space",
+    "categoryLabel": "نجوم و پدیده",
+    "bgTheme": "space",
+    "bgImageKey": "apollo_moon",
+    "motifLabel": "ماه و خورشیدگرفتگی",
+    "question": "کدام پدیده نجومی زمانی رخ می‌دهد که ماه دقیقاً بین خورشید و زمین قرار بگیرد؟",
+    "options": [
+      "خسوف (ماه‌گرفتگی)",
+      "کسوف (خورشیدگرفتگی)",
+      "ابرماه (Supermoon)",
+      "شفق قطبی"
+    ],
+    "correctIndex": 1,
+    "explanation": "در خورشیدگرفتگی (کسوف)، ماه میان زمین و خورشید قرار می‌گیرد و سایه آن روی بخش‌هایی از زمین می‌افتد."
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "category": "history",
+    "categoryLabel": "تاریخ ایران باستان",
+    "bgTheme": "history",
+    "bgImageKey": "persepolis_iran",
+    "motifLabel": "ستون‌های تخت جمشید",
+    "question": "کدام تمدن باستانی سازنده شهر تاریخی «پرسپولیس» (تخت جمشید) بود؟",
+    "options": [
+      "هخامنشیان",
+      "ساسانیان",
+      "اشکانیان",
+      "مادها"
+    ],
+    "correctIndex": 0,
+    "explanation": "تخت جمشید پایتخت آیینی و نماد شوکت امپراتوری هخامنشیان بود که ساخت آن در دوران داریوش بزرگ آغاز شد."
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "category": "geography",
+    "categoryLabel": "شگفتی‌های زمین",
+    "bgTheme": "geography",
+    "bgImageKey": "everest_peaks",
+    "motifLabel": "اقلیم‌ها و بیابان‌های زمین",
+    "question": "بزرگ‌ترین بیابان گرم کره زمین کدام است؟",
+    "options": [
+      "بیابان گبی",
+      "صحرای بزرگ آفریقا (Sahara)",
+      "بیابان کالاهاری",
+      "بیابان آتاکاما"
+    ],
+    "correctIndex": 1,
+    "explanation": "صحرای بزرگ آفریقا با مساحتی حدود ۹٫۲ میلیون کیلومتر مربع، بزرگ‌ترین بیابان گرم زمین است (قطب جنوب بزرگ‌ترین بیابان سرد است)."
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "category": "arts_math",
+    "categoryLabel": "ادبیات کهن",
+    "bgTheme": "arts_math",
+    "bgImageKey": "arts_math",
+    "motifLabel": "خیام نیشابوری و تقویم جلالی",
+    "question": "کدام دانشمند و شاعر ایرانی در اصلاح تقویم جلالی و سرودن رباعیات فلسفی شهرت جهانی دارد؟",
+    "options": [
+      "مولانا جلال‌الدین",
+      "حکیم عمر خیام نیشابوری",
+      "عطار نیشابوری",
+      "ناصرخسرو"
+    ],
+    "correctIndex": 1,
+    "explanation": "حکیم عمر خیام ریاضی‌دان، ستاره‌شناس و شاعر برجسته ایرانی بود که گاه‌شماری دقیق جلالی را طراحی کرد."
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "category": "tech",
+    "categoryLabel": "شبکه‌های کامپیوتری",
+    "bgTheme": "tech",
+    "bgImageKey": "network_ai",
+    "motifLabel": "سامانه نام دامنه DNS",
+    "question": "وظیفه اصلی سامانه DNS در شبکه اینترنت چیست؟",
+    "options": [
+      "رمزگذاری رمز عبور کاربران",
+      "تبدیل نام دامنه به نشانی عددی IP",
+      "فشرده‌سازی تصاویر وب",
+      "افزایش سرعت پردازنده سرور"
+    ],
+    "correctIndex": 1,
+    "explanation": "سامانه نام دامنه (DNS) مانند دفترچه تلفن اینترنت عمل می‌کند و آدرس‌های خوانا مثل example.com را به آدرس عددی IP تبدیل می‌نماید."
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "category": "science",
+    "categoryLabel": "فیزیک پایه",
+    "bgTheme": "science",
+    "bgImageKey": "einstein_physics",
+    "motifLabel": "فیزیک کلاسیک و مدرن",
+    "question": "یکای استاندارد اندازه‌گیری «نیرو» در دستگاه بین‌المللی یکاها (SI) کدام است؟",
+    "options": [
+      "ژول",
+      "وات",
+      "نیوتن",
+      "پاسکال"
+    ],
+    "correctIndex": 2,
+    "explanation": "یکای نیرو به افتخار آیزاک نیوتن، «نیوتن» (N) نام‌گذاری شده که معادل کیلوگرم متر بر مجذور ثانیه است."
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "category": "space",
+    "categoryLabel": "اکتشافات فضایی",
+    "bgTheme": "space",
+    "bgImageKey": "apollo_moon",
+    "motifLabel": "فرود آپولو ۱۱ بر ماه",
+    "question": "کدام مأموریت فضایی برای نخستین بار انسان را بر سطح کره ماه فرود آورد؟",
+    "options": [
+      "آپولو ۸",
+      "آپولو ۱۱",
+      "آپولو ۱۳",
+      "جمینی ۴"
+    ],
+    "correctIndex": 1,
+    "explanation": "در ۲۰ ژوئیه ۱۹۶۹، فضاپیمای آپولو ۱۱ با سرنشینان نیل آرمسترانگ و باز آلدرین نخستین فرود انسان بر ماه را رقم زد."
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "category": "history",
+    "categoryLabel": "تاریخ اکتشافات",
+    "bgTheme": "history",
+    "bgImageKey": "persepolis_iran",
+    "motifLabel": "کاروان‌های جاده ابریشم",
+    "question": "شبکه باستانی مسیرهای بازرگانی که شرق آسیا و چین را از طریق ایران به دریای مدیترانه متصل می‌کرد چه نام داشت؟",
+    "options": [
+      "جاده شاهی",
+      "جاده ابریشم",
+      "مسیر ادویه",
+      "گذرگاه کهربا"
+    ],
+    "correctIndex": 1,
+    "explanation": "جاده ابریشم برای سده‌های متمادی مهم‌ترین پل مبادله کالا، دانش، هنر و فرهنگ میان تمدن‌های شرق و غرب جهان بود."
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "category": "geography",
+    "categoryLabel": "زمین‌شناسی",
+    "bgTheme": "geography",
+    "bgImageKey": "everest_peaks",
+    "motifLabel": "زیست‌بوم آمازون و زمین",
+    "question": "کدام منطقه بیشترین سهم تولید اکسیژن و تنوع زیستی جنگل‌های بارانی جهان را در خود جای داده است؟",
+    "options": [
+      "جنگل‌های تایگا",
+      "جنگل بارانی آمازون",
+      "جنگل‌های کنگو",
+      "جنگل‌های هیرکانی"
+    ],
+    "correctIndex": 1,
+    "explanation": "جنگل‌های بارانی آمازون در آمریکای جنوبی بزرگ‌ترین جنگل استوایی جهان است و میلیون‌ها گونه گیاهی و جانوری را پناه می‌دهد."
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "category": "arts_math",
+    "categoryLabel": "ریاضیات و الگوها",
+    "bgTheme": "arts_math",
+    "bgImageKey": "renaissance_art",
+    "motifLabel": "مارپیچ و دنباله فیبوناچی",
+    "question": "در دنباله عددی فیبوناچی (۱، ۱، ۲، ۳، ۵، ۸، ۱۳، ...) عدد بعدی پس از ۱۳ کدام است؟",
+    "options": [
+      "۱۸",
+      "۲۰",
+      "۲۱",
+      "۲۶"
+    ],
+    "correctIndex": 2,
+    "explanation": "در دنباله فیبوناچی، هر عدد از جمع دو عدد قبلی خود به دست می‌آید؛ بنابراین ۸ + ۱۳ = ۲۱ خواهد بود."
+  },
+  {
+    "id": 41,
+    "difficulty": "hard",
+    "category": "space",
+    "categoryLabel": "فیزیک کوانتوم",
+    "bgTheme": "space",
+    "bgImageKey": "quantum_atom",
+    "motifLabel": "مکانیک کوانتومی و شرودینگر",
+    "question": "اصل برهم‌نهی (Superposition) و گربه فرضی محبوس در جعبه، نام کدام فیزیکدان را تداعی می‌کند؟",
+    "options": [
+      "نیلز بور",
+      "اروین شرودینگر",
+      "ورنر هایزنبرگ",
+      "ماکس پلانک"
+    ],
+    "correctIndex": 1,
+    "explanation": "آزمایش فکری «گربه شرودینگر» توسط اروین شرودینگر در سال ۱۹۳۵ برای نشان دادن تناقضات ظاهری در تفسیر کپنهاگی مکانیک کوانتومی مطرح شد."
+  },
+  {
+    "id": 42,
+    "difficulty": "hard",
+    "category": "tech",
+    "categoryLabel": "علوم کامپیوتر",
+    "bgTheme": "tech",
+    "bgImageKey": "network_ai",
+    "motifLabel": "نظریه پیچیدگی P و NP",
+    "question": "در نظریه پیچیدگی محاسباتی، مفهوم مسائل NP-کامل و پرسش P در برابر NP نخستین بار توسط چه کسانی تدوین شد؟",
+    "options": [
+      "استیون کوک و لئونید لوین",
+      "آلن تورینگ و جان فون نویمان",
+      "کلود شانون و نوربرت وینر",
+      "دونالد کنوت و ادسخر دیکسترا"
+    ],
+    "correctIndex": 0,
+    "explanation": "استیون کوک در سال ۱۹۷۱ و لئونید لوین به طور مستقل مفهوم مسائل NP-کامل را معرفی کردند که از بزرگ‌ترین مسائل حل‌نشده ریاضیات هزاره است."
+  },
+  {
+    "id": 43,
+    "difficulty": "hard",
+    "category": "science",
+    "categoryLabel": "ژنتیک مولکولی",
+    "bgTheme": "science",
+    "bgImageKey": "dna_biology",
+    "motifLabel": "مارپیچ دوگانه DNA و RNA",
+    "question": "کدام باز آلی نیتروژن‌دار در ساختار RNA وجود دارد اما در مولکول DNA یافت نمی‌شود؟",
+    "options": [
+      "آدنین (Adenine)",
+      "تیمین (Thymine)",
+      "اوراسیل (Uracil)",
+      "گوانین (Guanine)"
+    ],
+    "correctIndex": 2,
+    "explanation": "در ساختار مولکولی RNA، باز پیریمیدینی اوراسیل (U) جایگزین تیمین (T) شده و با آدنین (A) جفت می‌شود."
+  },
+  {
+    "id": 44,
+    "difficulty": "hard",
+    "category": "history",
+    "categoryLabel": "تاریخ جهان",
+    "bgTheme": "history",
+    "bgImageKey": "history",
+    "motifLabel": "پیمان تاریخی وستفالی ۱۶۴۸",
+    "question": "عهدنامه وستفالی (Peace of Westphalia) در سال ۱۶۴۸ به کدام جنگ طولانی در اروپا پایان داد؟",
+    "options": [
+      "جنگ‌های صدساله",
+      "جنگ سی‌ساله",
+      "جنگ‌های ناپلئونی",
+      "جنگ هفت‌ساله"
+    ],
+    "correctIndex": 1,
+    "explanation": "عهدنامه وستفالی به جنگ سی‌ساله مذهبی و ژئوپلیتیکی در اروپای مرکزی پایان داد و سنگ بنای نظام مدرن حاکمیت ملی دولت‌ها شد."
+  },
+  {
+    "id": 45,
+    "difficulty": "hard",
+    "category": "space",
+    "categoryLabel": "اخترفیزیک",
+    "bgTheme": "space",
+    "bgImageKey": "black_hole",
+    "motifLabel": "افق رویداد سیاه‌چاله",
+    "question": "مرز بی‌بازگشت پیرامون یک سیاه‌چاله که هیچ ماده یا نوری نمی‌تواند از آن بگریزد چه نام دارد؟",
+    "options": [
+      "افق رویداد (Event Horizon)",
+      "کره کارسنج (Ergosphere)",
+      "تکینگی گرانشی (Singularity)",
+      "قرص برافزایشی (Accretion Disk)"
+    ],
+    "correctIndex": 0,
+    "explanation": "افق رویداد مرزی است که در آن سرعت گریز از سیاه‌چاله برابر با سرعت نور می‌شود، بنابراین هیچ اطلاعاتی از درون آن به بیرون منتقل نمی‌شود."
+  },
+  {
+    "id": 46,
+    "difficulty": "hard",
+    "category": "tech",
+    "categoryLabel": "معماری کامپیوتر",
+    "bgTheme": "tech",
+    "bgImageKey": "cpu_chip",
+    "motifLabel": "تراشه‌ها و پردازش موازی",
+    "question": "قانون امدال (Amdahl's Law) در مهندسی کامپیوتر برای محاسبه چه چیزی استفاده می‌شود؟",
+    "options": [
+      "حداکثر بهبود سرعت بالقوه حاصل از موازی‌سازی پردازش",
+      "میزان مصرف برق پردازنده‌ها در فرکانس بالا",
+      "تعداد ترانزیستورهای روی تراشه سیلیکونی",
+      "ظرفیت پهنای باند حافظه کش"
+    ],
+    "correctIndex": 0,
+    "explanation": "قانون جین امدال نشان می‌دهد که شتاب بالقوه موازی‌سازی توسط بخش ترتیبی و غیرقابل موازی‌سازی برنامه محدود می‌شود."
+  },
+  {
+    "id": 47,
+    "difficulty": "hard",
+    "category": "arts_math",
+    "categoryLabel": "فلسفه و منطق",
+    "bgTheme": "arts_math",
+    "bgImageKey": "arts_math",
+    "motifLabel": "منطق کلاسیک و مغالطات",
+    "question": "مغالطه «پهلوان‌پنبه» (Straw Man Fallacy) به چه معناست؟",
+    "options": [
+      "تحریف و تضعیف عمدی ادعای رقیب برای رد کردن آسان‌تر آن",
+      "حمله به شخصیت گوینده به جای نقد استدلال او",
+      "استناد به نظر افراد مشهور بدون پشتوانه علمی",
+      "نتیجه‌گیری کلی بر اساس چند نمونه انگشت‌شمار"
+    ],
+    "correctIndex": 0,
+    "explanation": "در مغالطه پهلوان‌پنبه، فرد سخن رقیب را به شکلی افراطی یا ناقص بازتعریف می‌کند تا به راحتی آن نسخه جعلی و ضعیف را شکست دهد."
+  },
+  {
+    "id": 48,
+    "difficulty": "hard",
+    "category": "geography",
+    "categoryLabel": "جغرافیای ژرف",
+    "bgTheme": "geography",
+    "bgImageKey": "deep_ocean",
+    "motifLabel": "درازگودال ژرف ماریانا",
+    "question": "عمیق‌ترین گودال آبی اقیانوس‌های جهان کجاست؟",
+    "options": [
+      "گودال پورتوریکو",
+      "گودال ماریانا (Challenger Deep)",
+      "گودال جاوه",
+      "گودال تونگا"
+    ],
+    "correctIndex": 1,
+    "explanation": "ژرفای چلنجر در درازگودال ماریانا در اقیانوس آرام با عمقی نزدیک به ۱۱٬۰۰۰ متر، عمیق‌ترین نقطه پوسته زمین است."
+  },
+  {
+    "id": 49,
+    "difficulty": "hard",
+    "category": "science",
+    "categoryLabel": "مکانیک کوانتومی",
+    "bgTheme": "science",
+    "bgImageKey": "quantum_atom",
+    "motifLabel": "عدم قطعیت کوانتومی هایزنبرگ",
+    "question": "کدام اصل فیزیکی بیان می‌کند که نمی‌توان هم‌زمان موقعیت و تکانه یک ذره زیراتمی را با دقت مطلق اندازه گرفت؟",
+    "options": [
+      "اصل برهم‌نهی",
+      "اصل عدم قطعیت هایزنبرگ",
+      "اصل طرد پائولی",
+      "قانون دوم ترمودینامیک"
+    ],
+    "correctIndex": 1,
+    "explanation": "ورنر هایزنبرگ در سال ۱۹۲۷ ثابت کرد که حاصل‌ضرب عدم قطعیت در مکان و تکانه یک کوانتوم، همیشه بزرگ‌تر یا مساوی با h-bar بر روی ۲ است."
+  },
+  {
+    "id": 50,
+    "difficulty": "hard",
+    "category": "tech",
+    "categoryLabel": "رمزنگاری مدرن",
+    "bgTheme": "tech",
+    "bgImageKey": "network_ai",
+    "motifLabel": "رمزنگاری کلید عمومی RSA",
+    "question": "الگوریتم رمزنگاری RSA بر پایه دشواری محاسباتی کدام مسئله ریاضی بنا شده است؟",
+    "options": [
+      "تجزیه اعداد صحیح بسیار بزرگ به عوامل اول",
+      "محاسبه جذر اعداد اعشاری",
+      "حل معادلات دیفرانسیل غیرخطی",
+      "ضرب ماتریس‌های ابعاد بالا"
+    ],
+    "correctIndex": 0,
+    "explanation": "رمزنگاری کلید عمومی RSA بر پایه این اصل استوار است که ضرب دو عدد اول بسیار بزرگ سریع است، اما تجزیه حاصل‌ضرب به عوامل اولش بسیار دشوار است."
+  },
+  {
+    "id": 51,
+    "difficulty": "hard",
+    "category": "history",
+    "categoryLabel": "تاریخ باستان",
+    "bgTheme": "history",
+    "bgImageKey": "pyramids_egypt",
+    "motifLabel": "مصر باستان و اسکندریه",
+    "question": "«کتابخانه بزرگ اسکندریه» در دوران کدام سلسله پادشاهی در مصر باستان تأسیس و توسعه یافت؟",
+    "options": [
+      "سلسله بطالسه (بطلمیوسیان)",
+      "فراعنه پادشاهی کهن",
+      "سلسله اخناتون",
+      "امپراتوری بیزانس"
+    ],
+    "correctIndex": 0,
+    "explanation": "کتابخانه بزرگ اسکندریه در سده سوم پیش از میلاد به دستور بطلمیوس یکم یا دوم از جانشینان مقدونی در مصر ساخته شد."
+  },
+  {
+    "id": 52,
+    "difficulty": "hard",
+    "category": "arts_math",
+    "categoryLabel": "ریاضیات و هندسه",
+    "bgTheme": "arts_math",
+    "bgImageKey": "renaissance_art",
+    "motifLabel": "نسبت طلایی فی (Φ)",
+    "question": "«نسبت طلایی» (Golden Ratio) که با حرف یونانی فی (Φ) نشان داده می‌شود تقریباً برابر با چه مقداری است؟",
+    "options": [
+      "۱٫۴۱۴",
+      "۱٫۶۱۸",
+      "۲٫۷۱۸",
+      "۳٫۱۴۱"
+    ],
+    "correctIndex": 1,
+    "explanation": "نسبت طلایی عددی گنگ تقریباً برابر با ۱٫۶۱۸۰۳۳۹۸ است که در دنباله فیبوناچی، هنر معماری و ساختارهای طبیعی به وفور دیده می‌شود."
+  },
+  {
+    "id": 53,
+    "difficulty": "hard",
+    "category": "space",
+    "categoryLabel": "کیهان‌شناسی",
+    "bgTheme": "space",
+    "bgImageKey": "black_hole",
+    "motifLabel": "پیدایش کیهان و تابش زمینه",
+    "question": "«تابش زمینه کیهانی» (CMB) که در سال ۱۹۶۵ توسط پنزیاس و ویلسون کشف شد گواه مستقیم کدام نظریه است؟",
+    "options": [
+      "نظریه حالت پایدار",
+      "نظریه مهبانگ (Big Bang)",
+      "نظریه ریسمان",
+      "مدل زمین‌مرکزی"
+    ],
+    "correctIndex": 1,
+    "explanation": "تابش ریزموج زمینه کیهانی، پژواک گرمایی بازمانده از نخستین مراحل پس از مهبانگ است که حدود ۳۸۰ هزار سال پس از پیدایش کیهان رها شد."
+  },
+  {
+    "id": 54,
+    "difficulty": "hard",
+    "category": "tech",
+    "categoryLabel": "الگوریتم و گراف",
+    "bgTheme": "tech",
+    "bgImageKey": "network_ai",
+    "motifLabel": "الگوریتم مسیر شبکه دایکسترا",
+    "question": "الگوریتم کلاسیک دایکسترا (Dijkstra) برای حل کدام مسئله در گراف‌ها طراحی شده است؟",
+    "options": [
+      "یافتن کوتاه‌ترین مسیر با یال‌های غیرمنفی",
+      "مرتب‌سازی درجا با حافظه ثابت",
+      "فشرده‌سازی بدون اتلاف متن",
+      "یافتن چرخه همیلتونی در گراف"
+    ],
+    "correctIndex": 0,
+    "explanation": "ادسخر دایکسترا در سال ۱۹۵۶ الگوریتمی حریصانه ارائه کرد که کوتاه‌ترین مسیر از یک گره مبدأ به سایر گره‌ها را در گراف‌های با وزن غیرمنفی می‌یابد."
+  },
+  {
+    "id": 55,
+    "difficulty": "hard",
+    "category": "science",
+    "categoryLabel": "شیمی و ترمودینامیک",
+    "bgTheme": "science",
+    "bgImageKey": "quantum_atom",
+    "motifLabel": "فیزیک ذرات و آنتروپی",
+    "question": "مفهوم «آنتروپی» در قانون دوم ترمودینامیک بیانگر چیست؟",
+    "options": [
+      "میزان گرمای نهان ذوب یک فلز",
+      "معیار بی‌نظمی یا تعداد ریزحالت‌های ممکن در یک سامانه",
+      "سرعت واکنش کاتالیزورهای آنزیمی",
+      "انرژی پتانسیل هسته‌ای در اتم‌های سنگین"
+    ],
+    "correctIndex": 1,
+    "explanation": "لودویگ بولتزمن نشان داد آنتروپی یک سامانه بسته معیاری از تعداد ریزحالت‌های میکروسکوپی هم‌ارز آن است و در فرآیندهای خودبه‌خودی افزایش می‌یابد."
+  },
+  {
+    "id": 56,
+    "difficulty": "hard",
+    "category": "history",
+    "categoryLabel": "تاریخ دانش ایران",
+    "bgTheme": "history",
+    "bgImageKey": "persepolis_iran",
+    "motifLabel": "دانش ایرانی و خوارزمی",
+    "question": "کتاب «الجبر و المقابله» که نام علم جبر (Algebra) از آن گرفته شده اثر کدام دانشمند قرن نهم میلادی است؟",
+    "options": [
+      "ابوریحان بیرونی",
+      "محمد بن موسی خوارزمی",
+      "غیاث‌الدین جمشید کاشانی",
+      "خواجه نصیرالدین طوسی"
+    ],
+    "correctIndex": 1,
+    "explanation": "محمد بن موسی خوارزمی در دارالحکمه بغداد کتاب «الجبر و المقابله» را نوشت و واژه «الگوریتم» نیز برگرفته از نام لاتین‌شده او (Algoritmi) است."
+  },
+  {
+    "id": 57,
+    "difficulty": "hard",
+    "category": "geography",
+    "categoryLabel": "تکتونیک زمین",
+    "bgTheme": "geography",
+    "bgImageKey": "everest_peaks",
+    "motifLabel": "رشته‌کوه‌ها و رانش قاره‌ای",
+    "question": "نظریه «رانش قاره‌ای» و ابرقاره باستانی پانگه‌آ نخستین بار در سال ۱۹۱۲ توسط کدام دانشمند مطرح شد؟",
+    "options": [
+      "چارلز لایل",
+      "آلفرد وگنر",
+      "الکساندر فون هومبولت",
+      "چارلز ریشتر"
+    ],
+    "correctIndex": 1,
+    "explanation": "آلفرد وگنر با بررسی تطابق خطوط ساحلی قاره‌ها و فسیل‌های مشترک میان آفریقا و آمریکای جنوبی، نظریه رانش قاره‌ها را بنیان گذاشت."
+  },
+  {
+    "id": 58,
+    "difficulty": "hard",
+    "category": "arts_math",
+    "categoryLabel": "منطق ریاضی",
+    "bgTheme": "arts_math",
+    "bgImageKey": "arts_math",
+    "motifLabel": "منطق ریاضی و قضایای گودل",
+    "question": "قضایای «ناتمامیت» که محدودیت‌های ذاتی دستگاه‌های صوری ریاضی را اثبات کرد متعلق به کدام ریاضی‌دان است؟",
+    "options": [
+      "دیوید هیلبرت",
+      "کورت گودل",
+      "برتراند راسل",
+      "گئورگ کانتور"
+    ],
+    "correctIndex": 1,
+    "explanation": "کورت گودل در سال ۱۹۳۱ ثابت کرد در هر دستگاه اصل‌موضوعی سازگار که حساب پایه را در بر بگیرد، گزاره‌های درستی وجود دارند که درون آن دستگاه اثبات‌پذیر نیستند."
+  },
+  {
+    "id": 59,
+    "difficulty": "hard",
+    "category": "tech",
+    "categoryLabel": "معماری توزیع‌شده",
+    "bgTheme": "tech",
+    "bgImageKey": "network_ai",
+    "motifLabel": "شبکه‌های توزیع‌شده و قضیه CAP",
+    "question": "بر اساس قضیه CAP در سیستم‌های توزیع‌شده، هنگام بروز خطای افراز شبکه (Partition)، یک پایگاه‌داده توزیع‌شده ناگزیر است میان کدام دو ویژگی یکی را انتخاب کند؟",
+    "options": [
+      "سازگاری (Consistency) و دسترس‌پذیری (Availability)",
+      "امنیت (Security) و سرعت (Speed)",
+      "مقیاس‌پذیری (Scalability) و رمزنگاری (Encryption)",
+      "نرمال‌سازی (Normalization) و نمایه‌سازی (Indexing)"
+    ],
+    "correctIndex": 0,
+    "explanation": "اریک بروئر در قضیه CAP بیان کرد که یک سامانه داده توزیع‌شده نمی‌تواند هم‌زمان هر سه ویژگی Consistency، Availability و Partition Tolerance را تضمین کند."
+  },
+  {
+    "id": 60,
+    "difficulty": "hard",
+    "category": "space",
+    "categoryLabel": "اخترفیزیک نسبیتی",
+    "bgTheme": "space",
+    "bgImageKey": "einstein_physics",
+    "motifLabel": "آلبرت اینشتین و امواج گرانشی",
+    "question": "رصدخانه LIGO در سال ۲۰۱۵ برای نخستین بار موفق به آشکارسازی مستقیم کدام پدیده پیش‌بینی‌شده توسط اینشتین شد؟",
+    "options": [
+      "ماده تاریک سرد",
+      "امواج گرانشی حاصل از ادغام دو سیاه‌چاله",
+      "تابش هاوکینگ",
+      "پلاسمای کوارک-گلوئون"
+    ],
+    "correctIndex": 1,
+    "explanation": "تداخل‌سنج لیزری LIGO چین‌خوردگی‌های فضازمان (امواج گرانشی) ناشی از برخورد دو سیاه‌چاله در فاصله ۱٫۳ میلیارد سال نوری را ثبت کرد."
+  },
+  {
+    "id": 61,
+    "difficulty": "easy",
+    "category": "space",
+    "categoryLabel": "نجوم و فضا",
+    "bgTheme": "space",
+    "bgImageKey": "space",
+    "motifLabel": "منظومه شمسی و سیاره زحل",
+    "question": "کدام سیاره منظومه شمسی به دلیل حلقه‌های درخشان یخی و سنگی‌اش شهرت جهانی دارد؟",
+    "options": [
+      "اورانوس",
+      "زحل",
+      "مشتری",
+      "نپتون"
+    ],
+    "correctIndex": 1,
+    "explanation": "حلقه‌های زحل عمدتاً از میلیاردها قطعه یخ آب و ذرات غبار کیهانی تشکیل شده‌اند و از زمین با تلسکوپ‌های کوچک نیز دیده می‌شوند."
+  },
+  {
+    "id": 62,
+    "difficulty": "easy",
+    "category": "space",
+    "categoryLabel": "نجوم و فضا",
+    "bgTheme": "space",
+    "bgImageKey": "space",
+    "motifLabel": "نزدیک‌ترین سیاره به خورشید",
+    "question": "کوچک‌ترین و نزدیک‌ترین سیاره منظومه شمسی به خورشید کدام است؟",
+    "options": [
+      "زهره",
+      "مریخ",
+      "عطارد",
+      "زمین"
+    ],
+    "correctIndex": 2,
+    "explanation": "عطارد (تیر) تنها در ۸۸ روز زمینی یک بار به دور خورشید می‌چرخد و کوچک‌ترین سیاره منظومه شمسی است."
+  },
+  {
+    "id": 63,
+    "difficulty": "easy",
+    "category": "space",
+    "categoryLabel": "نجوم و فضا",
+    "bgTheme": "space",
+    "bgImageKey": "apollo_moon",
+    "motifLabel": "کره ماه و مدارات زمین",
+    "question": "حرکت جزر و مد آب اقیانوس‌های زمین عمدتاً بر اثر نیروی گرانش کدام جرم آسمانی ایجاد می‌شود؟",
+    "options": [
+      "مریخ",
+      "ماه",
+      "مشتری",
+      "زحل"
+    ],
+    "correctIndex": 1,
+    "explanation": "گرانش ماه آب‌های سطح زمین را به سمت خود می‌کشد و جزر و مدهای منظم روزانه را پدید می‌آورد."
+  },
+  {
+    "id": 64,
+    "difficulty": "easy",
+    "category": "space",
+    "categoryLabel": "نجوم و فضا",
+    "bgTheme": "space",
+    "bgImageKey": "space",
+    "motifLabel": "بزرگ‌ترین سیاره منظومه شمسی",
+    "question": "لکه سرخ بزرگ (Great Red Spot) که یک طوفان غول‌پیکر چندصدساله است روی کدام سیاره قرار دارد؟",
+    "options": [
+      "نپتون",
+      "زحل",
+      "مشتری",
+      "مریخ"
+    ],
+    "correctIndex": 2,
+    "explanation": "لکه سرخ بزرگ در جو مشتری طوفانی پرفشار است که قطر آن حتی از کل کره زمین بزرگ‌تر است."
+  },
+  {
+    "id": 65,
+    "difficulty": "easy",
+    "category": "space",
+    "categoryLabel": "نجوم و فضا",
+    "bgTheme": "space",
+    "bgImageKey": "space",
+    "motifLabel": "سیاره زهره و جو غلیظ",
+    "question": "داغ‌ترین سیاره منظومه شمسی به دلیل اثر گلخانه‌ای بسیار شدید کدام است؟",
+    "options": [
+      "عطارد",
+      "زهره",
+      "مریخ",
+      "مشتری"
+    ],
+    "correctIndex": 1,
+    "explanation": "اگرچه عطارد به خورشید نزدیک‌تر است، اما جو بسیار غلیظ دی‌اکسید کربن در زهره دمای سطح آن را به حدود ۴۶۵ درجه سانتی‌گراد می‌رساند."
+  },
+  {
+    "id": 66,
+    "difficulty": "easy",
+    "category": "space",
+    "categoryLabel": "نجوم و فضا",
+    "bgTheme": "space",
+    "bgImageKey": "apollo_moon",
+    "motifLabel": "نخستین انسان در فضا",
+    "question": "نخستین انسانی که در سال ۱۹۶۱ به فضا سفر کرد و مدار زمین را دور زد که بود؟",
+    "options": [
+      "نیل آرمسترانگ",
+      "یوری گاگارین",
+      "باز آلدرین",
+      "جان گلن"
+    ],
+    "correctIndex": 1,
+    "explanation": "یوری گاگارین، فضانورد شوروی، در ۱۲ آوریل ۱۹۶۱ با فضاپیمای وستوک-۱ نخستین انسان در فضا شد."
+  },
+  {
+    "id": 67,
+    "difficulty": "medium",
+    "category": "space",
+    "categoryLabel": "نجوم و فضا",
+    "bgTheme": "space",
+    "bgImageKey": "mars_planet",
+    "motifLabel": "آتشفشان المپوس در مریخ",
+    "question": "بلندترین قله و آتشفشان شناخته‌شده در منظومه شمسی (المپوس مونس) روی کدام سیاره قرار دارد؟",
+    "options": [
+      "زهره",
+      "زمین",
+      "مریخ",
+      "تیتان"
+    ],
+    "correctIndex": 2,
+    "explanation": "کوه آتشفشانی المپوس مونس در مریخ حدود ۲۱٫۹ کیلومتر ارتفاع دارد که نزدیک به دو و نیم برابر قله اورست است."
+  },
+  {
+    "id": 68,
+    "difficulty": "medium",
+    "category": "space",
+    "categoryLabel": "نجوم و فضا",
+    "bgTheme": "space",
+    "bgImageKey": "space",
+    "motifLabel": "واحد سنجش فواصل کیهانی",
+    "question": "«سال نوری» (Light-Year) واحد اندازه‌گیری کدام کمیت در اخترشناسی است؟",
+    "options": [
+      "زمان",
+      "فاصله",
+      "درخشندگی",
+      "جرم ستارگان"
+    ],
+    "correctIndex": 1,
+    "explanation": "سال نوری برابر مسافتی است که نور در خلأ طی یک سال زمینی می‌پیماید (حدود ۹٫۴۶ تریلیون کیلومتر)."
+  },
+  {
+    "id": 69,
+    "difficulty": "medium",
+    "category": "space",
+    "categoryLabel": "نجوم و فضا",
+    "bgTheme": "space",
+    "bgImageKey": "space",
+    "motifLabel": "کهکشان راه شیری و آندرومدا",
+    "question": "نزدیک‌ترین کهکشان مارپیچی بزرگ به کهکشان راه شیری کدام است؟",
+    "options": [
+      "سحابی جبار",
+      "کهکشان آندرومدا (M31)",
+      "کهکشان مثلث",
+      "ابر ماژلانی بزرگ"
+    ],
+    "correctIndex": 1,
+    "explanation": "کهکشان آندرومدا در فاصله حدود ۲٫۵ میلیون سال نوری قرار دارد و حدود ۴٫۵ میلیارد سال دیگر با راه شیری ادغام می‌شود."
+  },
+  {
+    "id": 70,
+    "difficulty": "medium",
+    "category": "space",
+    "categoryLabel": "نجوم و فضا",
+    "bgTheme": "space",
+    "bgImageKey": "space",
+    "motifLabel": "تلسکوپ فضایی جیمز وب",
+    "question": "تلسکوپ فضایی جیمز وب (JWST) عمدتاً در کدام بخش از طیف الکترومغناطیس رصد می‌کند؟",
+    "options": [
+      "پرتو گاما",
+      "فروسرخ (مادون قرمز)",
+      "امواج رادیویی بلند",
+      "پرتو ایکس"
+    ],
+    "correctIndex": 1,
+    "explanation": "رصد در طیف فروسرخ به جیمز وب امکان می‌دهد از میان غبارهای کیهانی عبور کرده و نور کهکشان‌های بسیار دور و اولیه را ثبت کند."
+  },
+  {
+    "id": 71,
+    "difficulty": "medium",
+    "category": "space",
+    "categoryLabel": "نجوم و فضا",
+    "bgTheme": "space",
+    "bgImageKey": "space",
+    "motifLabel": "قمرهای مشتری و زحل",
+    "question": "کدام قمر در منظومه شمسی دارای اتمسفر غلیظ نیتروژنی و دریاچه‌های متان و اتان مایع است؟",
+    "options": [
+      "اروپا",
+      "تیتان",
+      "گانیمد",
+      "آیو"
+    ],
+    "correctIndex": 1,
+    "explanation": "تیتان، بزرگ‌ترین قمر زحل، تنها قمر منظومه شمسی است که جوی متراکم و چرخه مایع (متان) شبیه به چرخه آب زمین دارد."
+  },
+  {
+    "id": 72,
+    "difficulty": "medium",
+    "category": "space",
+    "categoryLabel": "نجوم و فضا",
+    "bgTheme": "space",
+    "bgImageKey": "apollo_moon",
+    "motifLabel": "کاوشگر ویجر ۱",
+    "question": "دورترین فضاپیمای ساخت بشر که وارد فضای میان‌ستاره‌ای شده است کدام است؟",
+    "options": [
+      "پایونیر ۱۰",
+      "ویجر ۱ (Voyager 1)",
+      "نیوهورایزنز",
+      "کاسینی"
+    ],
+    "correctIndex": 1,
+    "explanation": "ویجر ۱ که در سال ۱۹۷۷ پرتاب شد، در سال ۲۰۱۲ از مرز هلیوپاز عبور کرد و اکنون بیش از ۲۴ میلیارد کیلومتر از زمین فاصله دارد."
+  },
+  {
+    "id": 73,
+    "difficulty": "medium",
+    "category": "space",
+    "categoryLabel": "نجوم و فضا",
+    "bgTheme": "space",
+    "bgImageKey": "space",
+    "motifLabel": "سیارات یخی اورانوس",
+    "question": "کدام سیاره منظومه شمسی با انحراف محوری حدود ۹۸ درجه تقریباً به پهلو به دور خورشید می‌چرخد؟",
+    "options": [
+      "اورانوس",
+      "نپتون",
+      "زحل",
+      "زهره"
+    ],
+    "correctIndex": 0,
+    "explanation": "محور چرخش اورانوس به قدری کج است که قطب‌های آن ۴۲ سال پیاپی رو به خورشید و ۴۲ سال در تاریکی مطلق هستند."
+  },
+  {
+    "id": 74,
+    "difficulty": "medium",
+    "category": "space",
+    "categoryLabel": "نجوم و فضا",
+    "bgTheme": "space",
+    "bgImageKey": "einstein_physics",
+    "motifLabel": "سرعت نور در خلأ",
+    "question": "سرعت تقریبی نور در خلأ بر حسب کیلومتر بر ثانیه چقدر است؟",
+    "options": [
+      "۱۵۰٬۰۰۰ کیلومتر بر ثانیه",
+      "۳۰۰٬۰۰۰ کیلومتر بر ثانیه",
+      "۴۵۰٬۰۰۰ کیلومتر بر ثانیه",
+      "۱٬۰۰۰٬۰۰۰ کیلومتر بر ثانیه"
+    ],
+    "correctIndex": 1,
+    "explanation": "سرعت دقیق نور در خلأ ۲۹۹٬۷۹۲٬۴۵۸ متر بر ثانیه (حدود ۳۰۰ هزار کیلومتر در ثانیه) است."
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "category": "space",
+    "categoryLabel": "اخترفیزیک",
+    "bgTheme": "space",
+    "bgImageKey": "black_hole",
+    "motifLabel": "تابش هاوکینگ و سیاه‌چاله",
+    "question": "مرز بی‌بازگشت پیرامون یک سیاه‌چاله که پس از عبور از آن حتی نور هم توان گریز ندارد چه نام دارد؟",
+    "options": [
+      "منطقه تابش",
+      "افق رویداد (Event Horizon)",
+      "حلقه انیشتین",
+      "حد چاندراسخار"
+    ],
+    "correctIndex": 1,
+    "explanation": "افق رویداد مرز فضازمانی اطراف سیاه‌چاله است که سرعت گریز در آن برابر با سرعت نور می‌شود."
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "category": "space",
+    "categoryLabel": "کیهان‌شناسی",
+    "bgTheme": "space",
+    "bgImageKey": "black_hole",
+    "motifLabel": "سیاه‌چاله مرکز راه شیری",
+    "question": "نام سیاه‌چاله کلان‌جرمی که در مرکز کهکشان راه شیری قرار دارد و در سال ۲۰۲۲ تصویر آن منتشر شد چیست؟",
+    "options": [
+      "M87*",
+      "کمان A* (Sagittarius A*)",
+      "سیگنوس X-1",
+      "TON 618"
+    ],
+    "correctIndex": 1,
+    "explanation": "کمان A* با جرمی حدود ۴ میلیون برابر خورشید در مرکز راه شیری قرار دارد و توسط تلسکوپ افق رویداد (EHT) تصویربرداری شد."
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "category": "space",
+    "categoryLabel": "اخترفیزیک ستاره‌ای",
+    "bgTheme": "space",
+    "bgImageKey": "space",
+    "motifLabel": "حد چاندراسخار و کوتوله سفید",
+    "question": "بیشینه جرم پایدار یک ستاره کوتوله سفید (حد چاندراسخار) تقریباً چند برابر جرم خورشید است؟",
+    "options": [
+      "۰٫۸ برابر",
+      "۱٫۴۴ برابر",
+      "۳٫۲ برابر",
+      "۸٫۰ برابر"
+    ],
+    "correctIndex": 1,
+    "explanation": "سوبرامانیان چاندراسخار نشان داد اگر جرم کوتوله سفید از حدود ۱٫۴۴ جرم خورشیدی فراتر رود، فشار تبهگنی الکترون توان تحمل گرانش را نداشته و رمبش رخ می‌دهد."
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "category": "space",
+    "categoryLabel": "مکانیک مداری",
+    "bgTheme": "space",
+    "bgImageKey": "einstein_physics",
+    "motifLabel": "نقاط لاگرانژ در نجوم",
+    "question": "تلسکوپ فضایی جیمز وب در کدام نقطه تعادل گرانشی سامانه خورشید-زمین مستقر شده است؟",
+    "options": [
+      "نقطه L1",
+      "نقطه L2",
+      "نقطه L4",
+      "مدار زمین‌آهنگ"
+    ],
+    "correctIndex": 1,
+    "explanation": "نقطه لاگرانژ L2 در فاصله ۱٫۵ میلیون کیلومتری زمین و در سمت مخالف خورشید قرار دارد که سپر حرارتی جیمز وب را هم‌زمان در برابر نور خورشید، زمین و ماه محافظت می‌کند."
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "category": "space",
+    "categoryLabel": "کیهان‌شناسی",
+    "bgTheme": "space",
+    "bgImageKey": "space",
+    "motifLabel": "تابش زمینه کیهانی",
+    "question": "کشف اتفاقی «تابش زمینه ریزموج کیهانی» (CMB) در سال ۱۹۶۵ توسط آرنو پنزیاس و رابرت ویلسون قوی‌ترین شاهد برای کدام نظریه بود؟",
+    "options": [
+      "جهان پایدار",
+      "مهبانگ (Big Bang)",
+      "تورم ابدی",
+      "جهان نوسانی"
+    ],
+    "correctIndex": 1,
+    "explanation": "تابش CMB پژواک حرارتی جهان اولیه (حدود ۳۸۰ هزار سال پس از مهبانگ) است و وجود آن نظریه حالت پایدار را رد کرد."
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "category": "space",
+    "categoryLabel": "فیزیک فضا",
+    "bgTheme": "space",
+    "bgImageKey": "quantum_atom",
+    "motifLabel": "همجوشی هسته‌ای در خورشید",
+    "question": "انرژی خورشید در هسته آن عمدتاً از تبدیل کدام عنصر به هلیم طی زنجیره پروتون-پروتون تأمین می‌شود؟",
+    "options": [
+      "لیتیوم",
+      "هیدروژن",
+      "کربن",
+      "اکسیژن"
+    ],
+    "correctIndex": 1,
+    "explanation": "در هسته خورشید در دمای حدود ۱۵ میلیون کلوین، هر ثانیه صدها میلیون تن هیدروژن طی همجوشی هسته‌ای به هلیم تبدیل می‌شود."
+  },
+  {
+    "id": 81,
+    "difficulty": "easy",
+    "category": "science",
+    "categoryLabel": "زیست‌شناسی",
+    "bgTheme": "science",
+    "bgImageKey": "dna_biology",
+    "motifLabel": "انرژی سلول و میتوکندری",
+    "question": "کدام اندامک سلولی به عنوان «نیروگاه تولید انرژی (ATP)» در سلول شناخته می‌شود؟",
+    "options": [
+      "دستگاه گلژی",
+      "میتوکندری",
+      "لیزوزوم",
+      "ریبوزوم"
+    ],
+    "correctIndex": 1,
+    "explanation": "میتوکندری با انجام تنفس سلولی هوازی، انرژی شیمیایی مواد غذایی را به مولکول‌های ATP تبدیل می‌کند."
+  },
+  {
+    "id": 82,
+    "difficulty": "easy",
+    "category": "science",
+    "categoryLabel": "شیمی پایه",
+    "bgTheme": "science",
+    "bgImageKey": "crystal_chemistry",
+    "motifLabel": "نمادهای شیمیایی عناصر",
+    "question": "نماد شیمیایی عنصر «طلا» در جدول تناوبی چیست؟",
+    "options": [
+      "Ag",
+      "Au",
+      "Fe",
+      "Cu"
+    ],
+    "correctIndex": 1,
+    "explanation": "نماد Au از واژه لاتین Aurum به معنای درخشش سپیده‌دم و طلا گرفته شده است؛ Ag نیز نماد نقره است."
+  },
+  {
+    "id": 83,
+    "difficulty": "easy",
+    "category": "science",
+    "categoryLabel": "زیست‌شناسی انسانی",
+    "bgTheme": "science",
+    "bgImageKey": "dna_biology",
+    "motifLabel": "آناتومی بدن انسان",
+    "question": "بزرگ‌ترین و سنگین‌ترین اندام داخلی (غده) در بدن انسان کدام است؟",
+    "options": [
+      "کلیه",
+      "کبد",
+      "معده",
+      "طحال"
+    ],
+    "correctIndex": 1,
+    "explanation": "کبد با وزن حدود ۱٫۵ کیلوگرم در بزرگسالان، بزرگ‌ترین اندام داخلی بدن است و در سم‌زدایی و متابولیسم نقش حیاتی دارد."
+  },
+  {
+    "id": 84,
+    "difficulty": "easy",
+    "category": "science",
+    "categoryLabel": "فیزیک پایه",
+    "bgTheme": "science",
+    "bgImageKey": "science",
+    "motifLabel": "نیرو و شتاب نیوتن",
+    "question": "واحد بین‌المللی اندازه‌گیری «نیرو» در دستگاه SI چیست؟",
+    "options": [
+      "ژول",
+      "نیوتن",
+      "وات",
+      "پاسکال"
+    ],
+    "correctIndex": 1,
+    "explanation": "واحد نیرو به افتخار آیزاک نیوتن «نیوتن» نام‌گذاری شده که برابر با نیروی لازم برای شتاب ۱ متر بر مجذور ثانیه به جرم ۱ کیلوگرم است."
+  },
+  {
+    "id": 85,
+    "difficulty": "easy",
+    "category": "science",
+    "categoryLabel": "شیمی پایه",
+    "bgTheme": "science",
+    "bgImageKey": "crystal_chemistry",
+    "motifLabel": "گازهای جو زمین",
+    "question": "فراوان‌ترین گاز در اتمسفر کره زمین (حدود ۷۸ درصد) کدام است؟",
+    "options": [
+      "اکسیژن",
+      "نیتروژن",
+      "دی‌اکسید کربن",
+      "آرگون"
+    ],
+    "correctIndex": 1,
+    "explanation": "هوای خشک زمین شامل حدود ۷۸ درصد نیتروژن، ۲۱ درصد اکسیژن و حدود ۱ درصد آرگون و سایر گازهاست."
+  },
+  {
+    "id": 86,
+    "difficulty": "easy",
+    "category": "science",
+    "categoryLabel": "شیمی و آزمایشگاه",
+    "bgTheme": "science",
+    "bgImageKey": "crystal_chemistry",
+    "motifLabel": "مقیاس اسیدی و بازی pH",
+    "question": "مقدار pH آب خالص در دمای ۲۵ درجه سانتی‌گراد (حالت خنثی) چقدر است؟",
+    "options": [
+      "۰",
+      "۵",
+      "۷",
+      "۱۴"
+    ],
+    "correctIndex": 2,
+    "explanation": "در مقیاس ۰ تا ۱۴، عدد ۷ نشان‌دهنده خنثی، کمتر از ۷ اسیدی و بیشتر از ۷ بازی (قلیایی) است."
+  },
+  {
+    "id": 87,
+    "difficulty": "medium",
+    "category": "science",
+    "categoryLabel": "پزشکی و زیست‌شناسی",
+    "bgTheme": "science",
+    "bgImageKey": "science",
+    "motifLabel": "پنی‌سیلین و آنتی‌بیوتیک",
+    "question": "الکساندر فلمینگ در سال ۱۹۲۸ به طور تصادفی کدام آنتی‌بیوتیک تاریخ‌ساز را از کپک پنی‌سیلیوم کشف کرد؟",
+    "options": [
+      "استرپتومایسین",
+      "پنی‌سیلین",
+      "تتراسایکلین",
+      "آسپرین"
+    ],
+    "correctIndex": 1,
+    "explanation": "کشف پنی‌سیلین توسط فلمینگ سرآغاز عصر آنتی‌بیوتیک‌ها بود و جان صدها میلیون انسان را از عفونت‌های باکتریایی نجات داد."
+  },
+  {
+    "id": 88,
+    "difficulty": "medium",
+    "category": "science",
+    "categoryLabel": "ژنتیک مولکولی",
+    "bgTheme": "science",
+    "bgImageKey": "dna_biology",
+    "motifLabel": "ساختار مارپیچ دوگانه DNA",
+    "question": "در مولکول DNA، باز آلی آدنین (A) همیشه با کدام باز جفت می‌شود؟",
+    "options": [
+      "گوانین (G)",
+      "سیتوزین (C)",
+      "تیمین (T)",
+      "اوراسیل (U)"
+    ],
+    "correctIndex": 2,
+    "explanation": "طبق قاعده جفت‌شدن بازها، در DNA همیشه آدنین با تیمین (با دو پیوند هیدروژنی) و گوانین با سیتوزین جفت می‌شود."
+  },
+  {
+    "id": 89,
+    "difficulty": "medium",
+    "category": "science",
+    "categoryLabel": "شیمی و عناصر",
+    "bgTheme": "science",
+    "bgImageKey": "crystal_chemistry",
+    "motifLabel": "ساختار اتمی الماس و گرافیت",
+    "question": "الماس و گرافیت هر دو آلوتروپ‌های خالص کدام عنصر شیمیایی هستند؟",
+    "options": [
+      "سیلیسیم",
+      "کربن",
+      "بور",
+      "گوگرد"
+    ],
+    "correctIndex": 1,
+    "explanation": "هر دو از اتم‌های خالص کربن ساخته شده‌اند؛ تفاوت آرایش بلوری آن‌ها باعث می‌شود الماس بسیار سخت و گرافیت نرم و رسانا باشد."
+  },
+  {
+    "id": 90,
+    "difficulty": "medium",
+    "category": "science",
+    "categoryLabel": "الکتریسیته و فیزیک",
+    "bgTheme": "science",
+    "bgImageKey": "einstein_physics",
+    "motifLabel": "قانون اهم در مدارات الکتریکی",
+    "question": "بر اساس قانون اهم (V = I × R)، واحد اندازه‌گیری «مقاومت الکتریکی» چیست؟",
+    "options": [
+      "آمپر",
+      "ولت",
+      "اهم (Ohm)",
+      "کولن"
+    ],
+    "correctIndex": 2,
+    "explanation": "مقاومت الکتریکی با نماد امگا (Ω) و به نام جرج سایمون اهم سنجیده می‌شود و نشان‌دهنده مخالفت رسانا با عبور جریان است."
+  },
+  {
+    "id": 91,
+    "difficulty": "medium",
+    "category": "science",
+    "categoryLabel": "فیزیک هسته‌ای و شیمی",
+    "bgTheme": "science",
+    "bgImageKey": "quantum_atom",
+    "motifLabel": "پرتوزایی و رادیواکتیویته",
+    "question": "کدام دانشمند نخستین زنی بود که برنده جایزه نوبل شد و تنها فردی است که در دو علم متفاوت (فیزیک و شیمی) نوبل دریافت کرده است؟",
+    "options": [
+      "روزالیند فرانکلین",
+      "ماری کوری",
+      "لیزه مایتنر",
+      "آدا لاولیس"
+    ],
+    "correctIndex": 1,
+    "explanation": "ماری کوری به پاس پژوهش‌های پیشگامانه درباره پرتوزایی (نوبل فیزیک ۱۹۰۳) و کشف رادیوم و پولونیوم (نوبل شیمی ۱۹۱۱) برنده دو نوبل علمی شد."
+  },
+  {
+    "id": 92,
+    "difficulty": "medium",
+    "category": "science",
+    "categoryLabel": "زیست‌شناسی تکاملی",
+    "bgTheme": "science",
+    "bgImageKey": "dna_biology",
+    "motifLabel": "خاستگاه گونه‌ها و داروین",
+    "question": "کتاب «منشأ انواع» و نظریه انتخاب طبیعی توسط کدام زیست‌شناس قرن نوزدهم منتشر شد؟",
+    "options": [
+      "گرگور مندل",
+      "لویی پاستور",
+      "چارلز داروین",
+      "کارل لینه"
+    ],
+    "correctIndex": 2,
+    "explanation": "چارلز داروین در سال ۱۸۵۹ نظریه تکامل از راه انتخاب طبیعی را در کتاب «خاستگاه گونه‌ها» عرضه کرد."
+  },
+  {
+    "id": 93,
+    "difficulty": "medium",
+    "category": "science",
+    "categoryLabel": "شیمی آلی و معدنی",
+    "bgTheme": "science",
+    "bgImageKey": "crystal_chemistry",
+    "motifLabel": "فلزات مایع در دمای اتاق",
+    "question": "تنها فلزی که در شرایط استاندارد (دمای اتاق ۲۵ درجه) به حالت مایع است کدام است؟",
+    "options": [
+      "گالیم",
+      "جیوه (Hg)",
+      "سزیم",
+      "سرب"
+    ],
+    "correctIndex": 1,
+    "explanation": "جیوه در دمای منفی ۳۸٫۸ درجه سانتی‌گراد ذوب می‌شود و به همین دلیل در دمای معمول اتاق کاملاً مایع است."
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "category": "science",
+    "categoryLabel": "زیست‌فناوری و ژنتیک",
+    "bgTheme": "science",
+    "bgImageKey": "dna_biology",
+    "motifLabel": "قیچی مولکولی CRISPR-Cas9",
+    "question": "فناوری انقلابی CRISPR-Cas9 که در مهندسی ژنتیک کاربرد دارد برای چه کاری استفاده می‌شود؟",
+    "options": [
+      "تکثیر سریع RNA پیام‌رسان",
+      "ویرایش دقیق و هدفمند توالی DNA",
+      "تصویربرداری سه‌بعدی از مغز",
+      "تولید آنزیم‌های گوارشی مصنوعی"
+    ],
+    "correctIndex": 1,
+    "explanation": "سامانه کریسپر برگرفته از سیستم ایمنی باکتری‌هاست و به پژوهشگران اجازه می‌دهد ژنوم موجودات زنده را با دقت بالا برش داده و ویرایش کنند."
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "category": "science",
+    "categoryLabel": "مکانیک کوانتومی",
+    "bgTheme": "science",
+    "bgImageKey": "quantum_atom",
+    "motifLabel": "اصل عدم قطعیت هایزنبرگ",
+    "question": "بر اساس اصل عدم قطعیت هایزنبرگ در مکانیک کوانتومی، کدام جفت کمیت را نمی‌توان هم‌زمان با دقت دلخواه اندازه گرفت؟",
+    "options": [
+      "جرم و بار الکتریکی",
+      "مکان و تکانه (اندازه حرکت)",
+      "اسپین و جرم سکون",
+      "فرکانس و طول موج یکسان"
+    ],
+    "correctIndex": 1,
+    "explanation": "در مقیاس کوانتومی، هرچه مکان ذره‌ای را دقیق‌تر تعیین کنیم، عدم قطعیت در اندازه‌گیری تکانه (و سرعت) آن بیشتر می‌شود."
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "category": "science",
+    "categoryLabel": "شیمی پیوندها",
+    "bgTheme": "science",
+    "bgImageKey": "crystal_chemistry",
+    "motifLabel": "ویژگی غیرعادی آب",
+    "question": "چرا یخ روی سطح آب مایع شناور می‌ماند؟",
+    "options": [
+      "به دلیل فشار هوای بالای سطح آب",
+      "چون پیوندهای هیدروژنی در شبکه بلوری یخ فضای بیشتری می‌گیرند و چگالی آن کمتر می‌شود",
+      "به دلیل واکنش نمک‌های محلول با اکسیژن",
+      "زیرا گرمای ویژه یخ از آب بیشتر است"
+    ],
+    "correctIndex": 1,
+    "explanation": "هنگام انجماد، مولکول‌های آب در شبکه‌ای شش‌ضلعی با فواصل بازتر آرایش می‌یابند که حجم یخ را بیشتر و چگالی آن را حدود ۰٫۹۲ گرم بر سانتی‌متر مکعب می‌کند."
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "category": "science",
+    "categoryLabel": "فیزیک نوین",
+    "bgTheme": "science",
+    "bgImageKey": "einstein_physics",
+    "motifLabel": "اثر فوتوالکتریک اینشتین",
+    "question": "آلبرت اینشتین جایزه نوبل فیزیک سال ۱۹۲۱ خود را مستقیماً به خاطر تبیین کدام پدیده دریافت کرد؟",
+    "options": [
+      "نسبیت عام",
+      "اثر فوتوالکتریک و کوانتوم نور",
+      "انبساط کیهان",
+      "هم‌ارزی جرم و انرژی"
+    ],
+    "correctIndex": 1,
+    "explanation": "کمیته نوبل جایزه فیزیک ۱۹۲۱ را به خاطر کشف قانون اثر فوتوالکتریک به اینشتین اهدا کرد که سنگ بنای نظریه کوانتومی نور (فوتون) بود."
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "category": "science",
+    "categoryLabel": "بیوشیمی و تنفس سلولی",
+    "bgTheme": "science",
+    "bgImageKey": "dna_biology",
+    "motifLabel": "چرخه کربس و متابولیسم",
+    "question": "چرخه «کربس» (اسید سیتریک) که بخش اصلی اکسایش مواد غذایی است در کجای سلول یوکاریوتی انجام می‌شود؟",
+    "options": [
+      "سیتوپلاسم",
+      "ماتریکس میتوکندری",
+      "شبکه آندوپلاسمی زبر",
+      "درون هستک"
+    ],
+    "correctIndex": 1,
+    "explanation": "چرخه کربس در ماتریکس میتوکندری رخ می‌دهد و حامل‌های پرانرژی NADH و FADH2 را برای زنجیره انتقال الکترون تولید می‌کند."
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "category": "science",
+    "categoryLabel": "فیزیک ذرات",
+    "bgTheme": "science",
+    "bgImageKey": "quantum_atom",
+    "motifLabel": "برخورددهنده بزرگ هادرون CERN",
+    "question": "بوزون «هیگز» که عامل جرم‌دار شدن ذرات بنیادی است در سال ۲۰۱۲ در کدام مرکز پژوهشی آشکارسازی شد؟",
+    "options": [
+      "آزمایشگاه فرمی‌لب آمریکا",
+      "مرکز سرن (CERN) و برخورددهنده LHC",
+      "رصدخانه آرسیبو",
+      "مؤسسه ماکس پلانک"
+    ],
+    "correctIndex": 1,
+    "explanation": "آزمایش‌های ATLAS و CMS در برخورددهنده بزرگ هادرون (LHC) در سرن سوئیس وجود بوزون هیگز را با اطمینان آماری بالا تأیید کردند."
+  },
+  {
+    "id": 100,
+    "difficulty": "easy",
+    "category": "tech",
+    "categoryLabel": "فناوری و کامپیوتر",
+    "bgTheme": "tech",
+    "bgImageKey": "tech",
+    "motifLabel": "مبانی داده دودویی",
+    "question": "هر یک «بایت» (Byte) در حافظه کامپیوتر متشکل از چند «بیت» (Bit) است؟",
+    "options": [
+      "۴ بیت",
+      "۸ بیت",
+      "۱۶ بیت",
+      "۳۲ بیت"
+    ],
+    "correctIndex": 1,
+    "explanation": "یک بایت برابر با ۸ بیت (۰ یا ۱) است و می‌تواند ۲۵۶ حالت مختلف (از ۰ تا ۲۵۵) را نمایش دهد."
+  },
+  {
+    "id": 101,
+    "difficulty": "easy",
+    "category": "tech",
+    "categoryLabel": "فناوری و وب",
+    "bgTheme": "tech",
+    "bgImageKey": "network_ai",
+    "motifLabel": "پروتکل‌های وب و مرورگر",
+    "question": "در آدرس‌های اینترنتی، عبارت HTTPS چه تفاوت امنیتی کلیدی با HTTP دارد؟",
+    "options": [
+      "تصاویر را فشرده‌تر نمایش می‌دهد",
+      "ارتباط را با رمزنگاری TLS/SSL امن می‌کند",
+      "نیازی به سرور DNS ندارد",
+      "فقط روی گوشی‌های موبایل کار می‌کند"
+    ],
+    "correctIndex": 1,
+    "explanation": "حرف S در HTTPS به معنای Secure است و ترافیک میان مرورگر و سرور را رمزنگاری می‌کند تا شنود یا دست‌کاری نشود."
+  },
+  {
+    "id": 102,
+    "difficulty": "easy",
+    "category": "tech",
+    "categoryLabel": "فناوری و کامپیوتر",
+    "bgTheme": "tech",
+    "bgImageKey": "cpu_chip",
+    "motifLabel": "حافظه موقت و دائم",
+    "question": "کدام ویژگی درباره حافظه اصلی رایانه یعنی RAM صحیح است؟",
+    "options": [
+      "اطلاعات آن با قطع برق پاک می‌شود (فرار است)",
+      "سرعت آن از هارد دیسک کمتر است",
+      "فقط قابل خواندن است و تغییر نمی‌کند",
+      "جایگزین کارت شبکه می‌شود"
+    ],
+    "correctIndex": 0,
+    "explanation": "حافظه RAM بسیار سریع است و برنامه‌های در حال اجرا را نگه می‌دارد، اما فرّار است و با خاموش شدن سیستم پاک می‌شود."
+  },
+  {
+    "id": 103,
+    "difficulty": "easy",
+    "category": "tech",
+    "categoryLabel": "برنامه‌نویسی",
+    "bgTheme": "tech",
+    "bgImageKey": "tech",
+    "motifLabel": "طراحی صفحات وب",
+    "question": "برای رنگ‌بندی، چیدمان و ظاهر بصری صفحات وب به طور استاندارد از کدام زبان استفاده می‌شود؟",
+    "options": [
+      "SQL",
+      "CSS",
+      "C++",
+      "Bash"
+    ],
+    "correctIndex": 1,
+    "explanation": "CSS (Cascading Style Sheets) مسئول ظاهر، رنگ‌ها، فونت‌ها و چیدمان ریسپانسیو عناصر HTML در وب است."
+  },
+  {
+    "id": 104,
+    "difficulty": "easy",
+    "category": "tech",
+    "categoryLabel": "فناوری و شبکه",
+    "bgTheme": "tech",
+    "bgImageKey": "network_ai",
+    "motifLabel": "سامانه نام دامنه DNS",
+    "question": "وظیفه اصلی سیستم DNS در اینترنت چیست؟",
+    "options": [
+      "تبدیل نام‌های دامنه (مثل example.com) به نشانی IP عددی",
+      "افزایش سرعت پردازنده سرور",
+      "مسدودکردن ویروس‌های ایمیل",
+      "فشرده‌سازی فایل‌های ویدیویی"
+    ],
+    "correctIndex": 0,
+    "explanation": "DNS مانند دفترچه تلفن اینترنت عمل می‌کند و نام‌های خوانا برای انسان را به آدرس‌های عددی IP که روترها می‌فهمند ترجمه می‌کند."
+  },
+  {
+    "id": 105,
+    "difficulty": "medium",
+    "category": "tech",
+    "categoryLabel": "توسعه نرم‌افزار",
+    "bgTheme": "tech",
+    "bgImageKey": "tech",
+    "motifLabel": "کنترل نسخه با Git",
+    "question": "در ابزار کنترل نسخه Git، دستور git commit دقیقاً چه کاری انجام می‌دهد؟",
+    "options": [
+      "تغییرات آماده‌شده (Staged) را در تاریخچه مخزن محلی ثبت می‌کند",
+      "تمامی فایل‌های پروژه را به سرور ابری آپلود می‌کند",
+      "تاریخچه قبلی پروژه را پاک می‌کند",
+      "کتابخانه‌های npm را نصب می‌کند"
+    ],
+    "correctIndex": 0,
+    "explanation": "دستور git commit یک تصویر لحظه‌ای (Snapshot) از تغییرات staged را با یک پیام توضیحی در مخزن محلی ثبت می‌کند."
+  },
+  {
+    "id": 106,
+    "difficulty": "medium",
+    "category": "tech",
+    "categoryLabel": "ساختار داده",
+    "bgTheme": "tech",
+    "bgImageKey": "tech",
+    "motifLabel": "پشته و صف در الگوریتم",
+    "question": "ساختار داده «پشته» (Stack) بر اساس کدام اصل کار می‌کند؟",
+    "options": [
+      "FIFO (اولین ورودی، اولین خروجی)",
+      "LIFO (آخرین ورودی، اولین خروجی)",
+      "دسترسی تصادفی بدون ترتیب",
+      "اولویت بر اساس کمترین مقدار"
+    ],
+    "correctIndex": 1,
+    "explanation": "در Stack آخرین عنصری که با عملیات Push اضافه شود، اولین عنصری است که با Pop برداشته می‌شود (LIFO)."
+  },
+  {
+    "id": 107,
+    "difficulty": "medium",
+    "category": "tech",
+    "categoryLabel": "شبکه و ارتباطات",
+    "bgTheme": "tech",
+    "bgImageKey": "network_ai",
+    "motifLabel": "پروتکل‌های TCP و UDP",
+    "question": "کدام یک از ویژگی‌های پروتکل TCP در مقایسه با UDP است؟",
+    "options": [
+      "تضمین تحویل بسته‌ها به ترتیب صحیح و بدون خطا",
+      "عدم برقراری اتصال اولیه (Connectionless)",
+      "نداشتن هیچ‌گونه کنترل خطا یا ارسال مجدد",
+      "عدم استفاده از شماره پورت"
+    ],
+    "correctIndex": 0,
+    "explanation": "TCP با دست‌تکانی سه‌مرحله‌ای، شماره‌گذاری بسته‌ها و تأیید دریافت (ACK)، انتقال مطمئن و مرتب داده‌ها را تضمین می‌کند."
+  },
+  {
+    "id": 108,
+    "difficulty": "medium",
+    "category": "tech",
+    "categoryLabel": "پایگاه‌داده",
+    "bgTheme": "tech",
+    "bgImageKey": "tech",
+    "motifLabel": "مدیریت داده‌ها و SQL",
+    "question": "در زبان SQL، برای استخراج سطرهای دارای شرط مشخص از یک جدول کدام دستور به کار می‌رود؟",
+    "options": [
+      "SELECT ... WHERE",
+      "INSERT ... INTO",
+      "DROP ... TABLE",
+      "ALTER ... COLUMN"
+    ],
+    "correctIndex": 0,
+    "explanation": "بند WHERE در کنار SELECT ردیف‌هایی را که شرط مورد نظر را برآورده می‌کنند فیلتر و بازیابی می‌کند."
+  },
+  {
+    "id": 109,
+    "difficulty": "medium",
+    "category": "tech",
+    "categoryLabel": "سخت‌افزار و معماری",
+    "bgTheme": "tech",
+    "bgImageKey": "cpu_chip",
+    "motifLabel": "تفاوت CPU و GPU",
+    "question": "چرا کارت‌های گرافیک (GPU) در آموزش مدل‌های هوش مصنوعی از CPU بسیار سریع‌ترند؟",
+    "options": [
+      "چون هزاران هسته کوچک برای پردازش موازی ماتریس‌ها دارند",
+      "چون فرکانس کلاک آن‌ها ۱۰۰ برابر بیشتر از CPU است",
+      "چون نیازی به حافظه ندارند",
+      "چون فقط به زبان پایتون کد اجرا می‌کنند"
+    ],
+    "correctIndex": 0,
+    "explanation": "شبکه‌های عصبی مملو از ضرب‌های ماتریسی مستقل هستند و GPUها با هزاران هسته هم‌زمان این محاسبات موازی را انجام می‌دهند."
+  },
+  {
+    "id": 110,
+    "difficulty": "medium",
+    "category": "tech",
+    "categoryLabel": "هوش مصنوعی",
+    "bgTheme": "tech",
+    "bgImageKey": "network_ai",
+    "motifLabel": "معماری ترنسفورمر و Attention",
+    "question": "مکانیزم کلیدی معماری Transformer در مدل‌های زبانی بزرگ (LLM) که در مقاله معروف سال ۲۰۱۷ معرفی شد چیست؟",
+    "options": [
+      "Self-Attention (توجه به خود)",
+      "درخت تصمیم تصادفی",
+      "شبکه عصبی بازگشتی ساده",
+      "الگوریتم K-Means"
+    ],
+    "correctIndex": 0,
+    "explanation": "مکانیزم Self-Attention به مدل اجازه می‌دهد ارتباط میان تمام واژه‌های یک متن را به صورت موازی و مستقل از فاصله آن‌ها وزن‌دهی کند."
+  },
+  {
+    "id": 111,
+    "difficulty": "hard",
+    "category": "tech",
+    "categoryLabel": "تحلیل الگوریتم",
+    "bgTheme": "tech",
+    "bgImageKey": "tech",
+    "motifLabel": "جست‌وجوی دودویی و پیچیدگی زمانی",
+    "question": "پیچیدگی زمانی بدترین حالت برای الگوریتم «جست‌وجوی دودویی» (Binary Search) روی آرایه‌ای مرتب با طول n چقدر است؟",
+    "options": [
+      "O(1)",
+      "O(log n)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "correctIndex": 1,
+    "explanation": "در هر گام جست‌وجوی دودویی، نیمی از بازه جست‌وجو حذف می‌شود؛ بنابراین حداکثر log2(n) مقایسه لازم است."
+  },
+  {
+    "id": 112,
+    "difficulty": "hard",
+    "category": "tech",
+    "categoryLabel": "رمزنگاری و امنیت",
+    "bgTheme": "tech",
+    "bgImageKey": "network_ai",
+    "motifLabel": "رمزنگاری نامتقارن کلید عمومی",
+    "question": "در رمزنگاری نامتقارن (مانند RSA)، اگر سارا بخواهد پیامی محرمانه برای علی بفرستد آن را با کدام کلید رمز می‌کند؟",
+    "options": [
+      "کلید خصوصی سارا",
+      "کلید عمومی علی",
+      "کلید خصوصی علی",
+      "بدون کلید و فقط با هش SHA-256"
+    ],
+    "correctIndex": 1,
+    "explanation": "پیامی که با «کلید عمومی علی» رمزنگاری شود، تنها با «کلید خصوصی علی» (که فقط خودش در اختیار دارد) قابل رمزگشایی است."
+  },
+  {
+    "id": 113,
+    "difficulty": "hard",
+    "category": "tech",
+    "categoryLabel": "سیستم‌های عامل",
+    "bgTheme": "tech",
+    "bgImageKey": "cpu_chip",
+    "motifLabel": "بن‌بست (Deadlock) در همزمانی",
+    "question": "در سیستم‌عامل، وضعیت «بن‌بست» (Deadlock) میان دو نخ یا فرآیند چه زمانی رخ می‌دهد؟",
+    "options": [
+      "وقتی حافظه نهان L1 پر شود",
+      "وقتی هر فرآیند منبعی را قفل کرده و منتظر آزادشدن منبع در اختیار دیگری بماند",
+      "وقتی نرخ تازه‌سازی مانیتور پایین بیاید",
+      "وقتی فایل اجرایی کامپایل نشده باشد"
+    ],
+    "correctIndex": 1,
+    "explanation": "انتظار دایره‌ای بر سر منابع غیرقابل اشتراک‌گذاری موجب می‌شود هیچ‌یک از فرآیندها نتوانند ادامه دهند و سیستم قفل شود."
+  },
+  {
+    "id": 114,
+    "difficulty": "hard",
+    "category": "tech",
+    "categoryLabel": "مهندسی وب و ریل‌تایم",
+    "bgTheme": "tech",
+    "bgImageKey": "network_ai",
+    "motifLabel": "پروتکل WebSocket دوطرفه",
+    "question": "مزیت اصلی پروتکل WebSocket نسبت به HTTP سنتی در بازی‌های چندنفره برخط چیست؟",
+    "options": [
+      "نیازی به مرورگر وب ندارد",
+      "یک کانال تمام‌دوطرفه (Full-Duplex) و ماندگار روی یک اتصال TCP برقرار می‌کند",
+      "به صورت خودکار پایگاه‌داده را رمزگذاری می‌کند",
+      "فقط برای ارسال فایل‌های ویدیویی طراحی شده است"
+    ],
+    "correctIndex": 1,
+    "explanation": "در WebSocket پس از یک بار ارتقای HTTP، سرور و کلاینت بدون سربار درخواست‌های مکرر می‌توانند هم‌زمان و فوری پیام ارسال کنند."
+  },
+  {
+    "id": 115,
+    "difficulty": "hard",
+    "category": "tech",
+    "categoryLabel": "امنیت سایبری",
+    "bgTheme": "tech",
+    "bgImageKey": "tech",
+    "motifLabel": "پیشگیری از SQL Injection",
+    "question": "استانداردترین و مطمئن‌ترین راهکار برای جلوگیری از حمله تزریق SQL (SQL Injection) چیست؟",
+    "options": [
+      "تغییر نام جدول‌های پایگاه‌داده به حروف بزرگ",
+      "استفاده از کوئری‌های پارامتری (Prepared Statements)",
+      "غیرفعال‌کردن جاوااسکریپت در مرورگر",
+      "استفاده از فایروال سیستم‌عامل بدون بررسی ورودی"
+    ],
+    "correctIndex": 1,
+    "explanation": "Prepared Statements داده‌های ورودی کاربر را از دستور SQL جدا نگه می‌دارند تا ورودی هرگز به عنوان کد اجرایی تفسیر نشود."
+  },
+  {
+    "id": 116,
+    "difficulty": "hard",
+    "category": "tech",
+    "categoryLabel": "معماری کامپایلر و اجرا",
+    "bgTheme": "tech",
+    "bgImageKey": "cpu_chip",
+    "motifLabel": "کامپایل AOT در برابر JIT",
+    "question": "در زمان اجرا و انتشار نرم‌افزارها، تفاوت کلیدی کامپایل AOT (Ahead-of-Time) با JIT چیست؟",
+    "options": [
+      "AOT کد را پیش از اجرا مستقیماً به کد ماشین بومی ترجمه می‌کند",
+      "AOT فقط در مرورگرهای وب اجرا می‌شود",
+      "JIT هیچ‌گاه از حافظه RAM استفاده نمی‌کند",
+      "AOT بدون نیاز به کد منبع کار می‌کند"
+    ],
+    "correctIndex": 0,
+    "explanation": "کامپایل AOT زمان راه‌اندازی برنامه (Startup Time) و مصرف حافظه را کاهش می‌دهد چون ترجمه به کد ماشین قبل از اجرا کامل شده است."
+  },
+  {
+    "id": 117,
+    "difficulty": "easy",
+    "category": "history",
+    "categoryLabel": "تاریخ ایران باستان",
+    "bgTheme": "history",
+    "bgImageKey": "persepolis_iran",
+    "motifLabel": "کوروش بزرگ و هخامنشیان",
+    "question": "بنیان‌گذار شاهنشاهی هخامنشی که منشور او به عنوان نخستین سند حقوق بشر شناخته می‌شود کیست؟",
+    "options": [
+      "داریوش بزرگ",
+      "کوروش بزرگ",
+      "خشایارشا",
+      "اردشیر بابکان"
+    ],
+    "correctIndex": 1,
+    "explanation": "کوروش بزرگ در سال ۵۳۹ پیش از میلاد بابل را گشود و فرمان آزادی و احترام به ادیان و ملل را بر استوانه گلی ثبت کرد."
+  },
+  {
+    "id": 118,
+    "difficulty": "easy",
+    "category": "history",
+    "categoryLabel": "تمدن‌های باستانی",
+    "bgTheme": "history",
+    "bgImageKey": "pyramids_egypt",
+    "motifLabel": "تمدن مصر و رود نیل",
+    "question": "تمدن کهن مصر باستان در کنار حاشیه کدام رود بزرگ شکل گرفت و شکوفا شد؟",
+    "options": [
+      "فرات",
+      "نیل",
+      "دجله",
+      "سند"
+    ],
+    "correctIndex": 1,
+    "explanation": "طغیان‌های سالانه و منظم رود نیل خاک حاصلخیز و آب کشاورزی را برای پیدایش تمدن چندین‌هزارساله مصر فراهم می‌کرد."
+  },
+  {
+    "id": 119,
+    "difficulty": "easy",
+    "category": "history",
+    "categoryLabel": "تاریخ جهان",
+    "bgTheme": "history",
+    "bgImageKey": "history",
+    "motifLabel": "کشف قاره آمریکا ۱۴۹۲",
+    "question": "کاشف دریانوردی که در سال ۱۴۹۲ میلادی با عبور از اقیانوس اطلس به قاره آمریکا رسید که بود؟",
+    "options": [
+      "فردیناند ماژلان",
+      "کریستف کلمب",
+      "واسکو دا گاما",
+      "جیمز کوک"
+    ],
+    "correctIndex": 1,
+    "explanation": "کریستف کلمب با حمایت تاج و تخت اسپانیا برای یافتن مسیر دریایی به هند حرکت کرد و به جزایر کارائیب رسید."
+  },
+  {
+    "id": 120,
+    "difficulty": "easy",
+    "category": "history",
+    "categoryLabel": "تاریخ و اختراعات",
+    "bgTheme": "history",
+    "bgImageKey": "history",
+    "motifLabel": "ماشین چاپ گوتنبرگ",
+    "question": "اختراع ماشین چاپ حروف متحرک در اروپا در قرن پانزدهم میلادی منسوب به کدام شخصیت است؟",
+    "options": [
+      "یوهانس گوتنبرگ",
+      "توماس ادیسون",
+      "گالیلئو گالیله",
+      "جیمز وات"
+    ],
+    "correctIndex": 0,
+    "explanation": "گوتنبرگ حدود سال ۱۴۴۰ میلادی در آلمان چاپ حروف متحرک فلزی را ابداع کرد که دانش را به سرعت در سراسر اروپا گسترش داد."
+  },
+  {
+    "id": 121,
+    "difficulty": "easy",
+    "category": "history",
+    "categoryLabel": "تاریخ ایران",
+    "bgTheme": "history",
+    "bgImageKey": "persepolis_iran",
+    "motifLabel": "تخت جمشید در مرودشت فارس",
+    "question": "مجموعه باشکوه تخت جمشید (پارسه) پایتخت تشریفاتی کدام سلسله ایرانی بود؟",
+    "options": [
+      "اشکانیان",
+      "هخامنشیان",
+      "ساسانیان",
+      "صفویان"
+    ],
+    "correctIndex": 1,
+    "explanation": "ساخت تخت جمشید حدود ۵۱۸ پیش از میلاد به فرمان داریوش بزرگ در دشت مرودشت فارس آغاز شد."
+  },
+  {
+    "id": 122,
+    "difficulty": "easy",
+    "category": "history",
+    "categoryLabel": "تاریخ باستان",
+    "bgTheme": "history",
+    "bgImageKey": "history",
+    "motifLabel": "خاستگاه المپیک باستان",
+    "question": "بازی‌های المپیک باستانی نخستین بار در کدام سرزمین برگزار می‌شد؟",
+    "options": [
+      "روم باستان",
+      "یونان باستان",
+      "مصر باستان",
+      "بین‌النهرین"
+    ],
+    "correctIndex": 1,
+    "explanation": "نخستین المپیک مستند در سال ۷۷۶ پیش از میلاد در شهر المپیا در یونان باستان برگزار شد."
+  },
+  {
+    "id": 123,
+    "difficulty": "easy",
+    "category": "history",
+    "categoryLabel": "تاریخ معاصر جهان",
+    "bgTheme": "history",
+    "bgImageKey": "history",
+    "motifLabel": "بنای دیوار برلین و فروپاشی",
+    "question": "دیوار برلین که نماد تقسیم اروپا در دوران جنگ سرد بود در کدام سال میلادی فرو ریخت؟",
+    "options": [
+      "۱۹۷۹",
+      "۱۹۸۹",
+      "۱۹۹۵",
+      "۲۰۰۱"
+    ],
+    "correctIndex": 1,
+    "explanation": "دیوار برلین در ۹ نوامبر ۱۹۸۹ پس از ۲۸ سال جداسازی برلین شرقی و غربی فرو ریخت و زمینه اتحاد آلمان را فراهم کرد."
+  },
+  {
+    "id": 124,
+    "difficulty": "medium",
+    "category": "history",
+    "categoryLabel": "تمدن‌های باستانی",
+    "bgTheme": "history",
+    "bgImageKey": "history",
+    "motifLabel": "خط میخی سومریان و بین‌النهرین",
+    "question": "نخستین خط شناخته‌شده تاریخ بشر که با قلم نی روی لوح‌های گلی نوشته می‌شد توسط کدام تمدن پدید آمد؟",
+    "options": [
+      "سومریان (بین‌النهرین)",
+      "فینیقی‌ها",
+      "مایاها",
+      "وایکینگ‌ها"
+    ],
+    "correctIndex": 0,
+    "explanation": "سومریان حدود ۳۲۰۰ پیش از میلاد در جنوب بین‌النهرین خط میخی را برای ثبت حساب‌ها و قوانین ابداع کردند."
+  },
+  {
+    "id": 125,
+    "difficulty": "medium",
+    "category": "history",
+    "categoryLabel": "تاریخ ایران و فرهنگ",
+    "bgTheme": "history",
+    "bgImageKey": "persepolis_iran",
+    "motifLabel": "ابوریحان بیرونی و دانشمندان ایرانی",
+    "question": "دانشمند بزرگ ایرانی قرن چهارم و پنجم هجری که شعاع کره زمین را با دقتی شگفت‌انگیز محاسبه کرد که بود؟",
+    "options": [
+      "زکریای رازی",
+      "ابوریحان بیرونی",
+      "ابن‌سینا",
+      "فارابی"
+    ],
+    "correctIndex": 1,
+    "explanation": "ابوریحان بیرونی با اندازه‌گیری زاویه افق از بالای یک کوه در هندوستان، شعاع زمین را با خطایی کمتر از ۱ درصد محاسبه کرد."
+  },
+  {
+    "id": 126,
+    "difficulty": "medium",
+    "category": "history",
+    "categoryLabel": "تاریخ پزشکی و علم",
+    "bgTheme": "history",
+    "bgImageKey": "persepolis_iran",
+    "motifLabel": "کتاب قانون در طب ابن‌سینا",
+    "question": "اثر پزشکی سترگ «قانون در طب» که قرن‌ها در دانشگاه‌های اروپا تدریس می‌شد نوشته کدام دانشمند ایرانی است؟",
+    "options": [
+      "ابوعلی سینا",
+      "حکیم جرجانی",
+      "محمد بن زکریای رازی",
+      "شیخ بهایی"
+    ],
+    "correctIndex": 0,
+    "explanation": "ابن‌سینا در کتاب پنج‌جلدی «القانون فی الطب» دانش پزشکی زمان خود را نظام‌مند کرد و تا قرن هفدهم مرجع اصلی اروپا بود."
+  },
+  {
+    "id": 127,
+    "difficulty": "medium",
+    "category": "history",
+    "categoryLabel": "تاریخ رنسانس و علم",
+    "bgTheme": "history",
+    "bgImageKey": "renaissance_art",
+    "motifLabel": "انقلاب علمی و رنسانس",
+    "question": "دوره «رنسانس» (نوزایی فرهنگی و هنری اروپا) از سده چهاردهم میلادی نخست از کدام کشور آغاز شد؟",
+    "options": [
+      "فرانسه",
+      "ایتالیا (فلورانس)",
+      "انگلستان",
+      "اسپانیا"
+    ],
+    "correctIndex": 1,
+    "explanation": "رنسانس از شهرهای ثروتمند ایتالیا به‌ویژه فلورانس آغاز شد و احیای هنر، علم و خردگرایی کلاسیک را در پی داشت."
+  },
+  {
+    "id": 128,
+    "difficulty": "medium",
+    "category": "history",
+    "categoryLabel": "تاریخ تمدن",
+    "bgTheme": "history",
+    "bgImageKey": "history",
+    "motifLabel": "راه ابریشم و تجارت باستان",
+    "question": "شبکه راه‌های تجاری باستانی که شرق آسیا (چین) را از طریق ایران به دریای مدیترانه متصل می‌کرد چه نام داشت؟",
+    "options": [
+      "راه ادویه",
+      "جاده ابریشم",
+      "راه شاهی رم",
+      "گذرگاه کهربا"
+    ],
+    "correctIndex": 1,
+    "explanation": "جاده ابریشم نه‌تنها کالاهایی چون ابریشم، کاغذ و ادویه بلکه اندیشه‌ها، فناوری‌ها و فرهنگ‌ها را میان شرق و غرب جابه‌جا کرد."
+  },
+  {
+    "id": 129,
+    "difficulty": "medium",
+    "category": "history",
+    "categoryLabel": "تاریخ ایران",
+    "bgTheme": "history",
+    "bgImageKey": "persepolis_iran",
+    "motifLabel": "سنگ‌نبشته بیستون",
+    "question": "کتیبه سه زبانه بیستون در استان کرمانشاه به فرمان کدام پادشاه هخامنشی بر صخره حک شد؟",
+    "options": [
+      "کمبوجیه دوم",
+      "داریوش بزرگ",
+      "کوروش کوچک",
+      "اردشیر دوم"
+    ],
+    "correctIndex": 1,
+    "explanation": "داریوش بزرگ شرح پیروزی‌های خود را به سه خط میخی فارسی باستان، عیلامی و بابلی در بیستون ثبت کرد که کلید رمزگشایی خط میخی شد."
+  },
+  {
+    "id": 130,
+    "difficulty": "medium",
+    "category": "history",
+    "categoryLabel": "تاریخ جهان",
+    "bgTheme": "history",
+    "bgImageKey": "pyramids_egypt",
+    "motifLabel": "سنگ رشید و رمزگشایی هیروگلیف",
+    "question": "کشف کدام کتیبه تاریخی به ژان فرانسوا شامپولیون کمک کرد خط هیروگلیف مصر باستان را رمزگشایی کند؟",
+    "options": [
+      "لوح حمورابی",
+      "سنگ رشید (Rosetta Stone)",
+      "کتیبه کاپیتول",
+      "طومارهای دریای مرده"
+    ],
+    "correctIndex": 1,
+    "explanation": "سنگ رشید شامل یک فرمان سلطنتی به سه خط هیروگلیف، دموتیک و یونانی باستان بود و رمزگشایی خط مصری را ممکن ساخت."
+  },
+  {
+    "id": 131,
+    "difficulty": "medium",
+    "category": "history",
+    "categoryLabel": "تاریخ جهان",
+    "bgTheme": "history",
+    "bgImageKey": "history",
+    "motifLabel": "انقلاب صنعتی انگلستان",
+    "question": "انقلاب صنعتی نخست (حدود ۱۷۶۰ میلادی) بر پایه نیروی بخار و صنعت نساجی از کدام کشور شروع شد؟",
+    "options": [
+      "آلمان",
+      "بریتانیا",
+      "آمریکا",
+      "هلند"
+    ],
+    "correctIndex": 1,
+    "explanation": "دسترسی به زغال‌سنگ، اختراعاتی چون موتور بخار جیمز وات و شبکه تجاری گسترده، بریتانیا را پیشگام انقلاب صنعتی کرد."
+  },
+  {
+    "id": 132,
+    "difficulty": "hard",
+    "category": "history",
+    "categoryLabel": "تاریخ ایران",
+    "bgTheme": "history",
+    "bgImageKey": "persepolis_iran",
+    "motifLabel": "فرهنگستان ساسانی جندی‌شاپور",
+    "question": "مشهورترین مرکز علمی و پزشکی ایران در عصر ساسانیان که میزبان دانشمندان ایرانی، هندی و یونانی بود چه نام داشت؟",
+    "options": [
+      "رصدخانه مراغه",
+      "دانشگاه جندی‌شاپور (گندی‌شاپور)",
+      "ربع رشیدی",
+      "مدرسه نظامیه"
+    ],
+    "correctIndex": 1,
+    "explanation": "بیمارستان و آکادمی گندی‌شاپور در خوزستان در زمان خسرو انوشیروان به مهم‌ترین کانون پزشکی و ترجمه علمی زمان خود تبدیل شد."
+  },
+  {
+    "id": 133,
+    "difficulty": "hard",
+    "category": "history",
+    "categoryLabel": "تاریخ باستان",
+    "bgTheme": "history",
+    "bgImageKey": "history",
+    "motifLabel": "قوانین حمورابی بابل",
+    "question": "یکی از کهن‌ترین مجموعه‌های قوانین مدون حقوقی تاریخ که روی ستون سنگ بازالت سیاه حک شده متعلق به کدام پادشاه بابل است؟",
+    "options": [
+      "نبوکدنصر دوم",
+      "حمورابی",
+      "سارگون اکدی",
+      "آشوربانیپال"
+    ],
+    "correctIndex": 1,
+    "explanation": "قانون‌نامه حمورابی حدود ۱۷۵۰ پیش از میلاد تدوین شد و شامل ۲۸۲ ماده قانونی درباره تجارت، خانواده و مجازات‌ها بود."
+  },
+  {
+    "id": 134,
+    "difficulty": "hard",
+    "category": "history",
+    "categoryLabel": "تاریخ علم",
+    "bgTheme": "history",
+    "bgImageKey": "persepolis_iran",
+    "motifLabel": "رصدخانه مراغه و زیج ایلخانی",
+    "question": "رصدخانه مشهور مراغه در قرن هفتم هجری به سرپرستی کدام دانشمند و ریاضی‌دان ایرانی بنیان‌گذاری شد؟",
+    "options": [
+      "عمر خیام",
+      "خواجه نصیرالدین طوسی",
+      "قطب‌الدین شیرازی",
+      "غیاث‌الدین کاشانی"
+    ],
+    "correctIndex": 1,
+    "explanation": "خواجه نصیرالدین طوسی رصدخانه مراغه را به مرکزی بین‌المللی تبدیل کرد و جداول نجومی «زیج ایلخانی» و «جفت طوسی» را در آن آفرید."
+  },
+  {
+    "id": 135,
+    "difficulty": "hard",
+    "category": "history",
+    "categoryLabel": "تاریخ اروپا",
+    "bgTheme": "history",
+    "bgImageKey": "history",
+    "motifLabel": "منشور کبیر (Magna Carta)",
+    "question": "سند «مگنا کارتا» (منشور بزرگ آزادی) که نخستین بار قدرت مطلق پادشاه را محدود به قانون کرد در سال ۱۲۱۵ در کجا امضا شد؟",
+    "options": [
+      "انگلستان",
+      "فرانسه",
+      "ونیز",
+      "اتریش"
+    ],
+    "correctIndex": 0,
+    "explanation": "پادشاه جان انگلستان تحت فشار بارون‌ها مگنا کارتا را امضا کرد که سنگ بنای دادرسی عادلانه و حاکمیت قانون شد."
+  },
+  {
+    "id": 136,
+    "difficulty": "hard",
+    "category": "history",
+    "categoryLabel": "تاریخ علم",
+    "bgTheme": "history",
+    "bgImageKey": "history",
+    "motifLabel": "اپتیک و ابن هیثم",
+    "question": "کتاب «المناظر» (کتاب اپتیک) که روش آزمایش تجربی و چگونگی بینایی بر پایه بازتاب نور به چشم را تشریح کرد اثر کیست؟",
+    "options": [
+      "ابن هیثم (الحسن)",
+      "الکندی",
+      "جابر بن حیان",
+      "ابن رشد"
+    ],
+    "correctIndex": 0,
+    "explanation": "حسن ابن هیثم در سده دهم و یازدهم میلادی پایه‌گذار اپتیک نوین و از پیشگامان روش علمی آزمایش‌محور بود."
+  },
+  {
+    "id": 137,
+    "difficulty": "hard",
+    "category": "history",
+    "categoryLabel": "تمدن ایران",
+    "bgTheme": "history",
+    "bgImageKey": "persepolis_iran",
+    "motifLabel": "اشکانیان و نبرد حران",
+    "question": "در دوران اشکانیان، کدام سردار نامدار ایرانی در نبرد حران (۵۳ پیش از میلاد) سپاه روم به فرماندهی کراسوس را شکست داد؟",
+    "options": [
+      "مهرداد دوم",
+      "سورنا",
+      "آریوبرزن",
+      "فرهاد چهارم"
+    ],
+    "correctIndex": 1,
+    "explanation": "سردار سورنا با تاکتیک جنگ و گریز سواره نظام تیرانداز پارتی، لژیون‌های پرشمار رومی را در نبرد کاره (حران) مغلوب کرد."
+  },
+  {
+    "id": 138,
+    "difficulty": "hard",
+    "category": "history",
+    "categoryLabel": "تاریخ معاصر",
+    "bgTheme": "history",
+    "bgImageKey": "history",
+    "motifLabel": "تأسیس سازمان ملل متحد",
+    "question": "منشور سازمان ملل متحد پس از پایان جنگ جهانی دوم در کدام سال میلادی در سانفرانسیسکو امضا شد؟",
+    "options": [
+      "۱۹۱۹",
+      "۱۹۴۵",
+      "۱۹۵۳",
+      "۱۹۶۱"
+    ],
+    "correctIndex": 1,
+    "explanation": "نمایندگان ۵۰ کشور از جمله ایران در ۲۶ ژوئن ۱۹۴۵ منشور سازمان ملل متحد را برای حفظ صلح و همکاری بین‌المللی امضا کردند."
+  },
+  {
+    "id": 139,
+    "difficulty": "easy",
+    "category": "geography",
+    "categoryLabel": "جغرافیا و قاره‌ها",
+    "bgTheme": "geography",
+    "bgImageKey": "geography",
+    "motifLabel": "قاره‌های کره زمین",
+    "question": "پهناورترین و پرجمعیت‌ترین قاره کره زمین کدام است؟",
+    "options": [
+      "آفریقا",
+      "آسیا",
+      "آمریکای شمالی",
+      "اروپا"
+    ],
+    "correctIndex": 1,
+    "explanation": "قاره آسیا حدود ۳۰ درصد خشکی‌های زمین و نزدیک به ۶۰ درصد کل جمعیت جهان را در خود جای داده است."
+  },
+  {
+    "id": 140,
+    "difficulty": "easy",
+    "category": "geography",
+    "categoryLabel": "جغرافیای طبیعی",
+    "bgTheme": "geography",
+    "bgImageKey": "deep_ocean",
+    "motifLabel": "طولانی‌ترین رودهای جهان",
+    "question": "پرآب‌ترین رودخانه کره زمین که بزرگ‌ترین جنگل بارانی جهان از آن عبور می‌کند کدام است؟",
+    "options": [
+      "نیل",
+      "آمازون",
+      "می‌سی‌سی‌پی",
+      "یانگ‌تسه"
+    ],
+    "correctIndex": 1,
+    "explanation": "رود آمازون در آمریکای جنوبی حدود یک‌پنجم کل آب شیرین ورودی به اقیانوس‌های جهان را تأمین می‌کند."
+  },
+  {
+    "id": 141,
+    "difficulty": "easy",
+    "category": "geography",
+    "categoryLabel": "جغرافیای ایران",
+    "bgTheme": "geography",
+    "bgImageKey": "everest_peaks",
+    "motifLabel": "قله دماوند در رشته‌کوه البرز",
+    "question": "بلندترین قله ایران و بلندترین آتشفشان قاره آسیا کدام کوه است؟",
+    "options": [
+      "سبلان",
+      "دماوند",
+      "علم‌کوه",
+      "دنا"
+    ],
+    "correctIndex": 1,
+    "explanation": "قله دماوند در رشته‌کوه البرز با ارتفاع حدود ۵۶۱۰ متر بلندترین قله ایران و نماد کوهستان‌های فلات ایران است."
+  },
+  {
+    "id": 142,
+    "difficulty": "easy",
+    "category": "geography",
+    "categoryLabel": "جغرافیای جهان",
+    "bgTheme": "geography",
+    "bgImageKey": "geography",
+    "motifLabel": "بزرگ‌ترین کشور جهان",
+    "question": "کدام کشور از نظر مساحت جغرافیایی بزرگ‌ترین کشور کره زمین است؟",
+    "options": [
+      "کانادا",
+      "چین",
+      "روسیه",
+      "ایالات متحده"
+    ],
+    "correctIndex": 2,
+    "explanation": "روسیه با بیش از ۱۷ میلیون کیلومتر مربع وسعت، در دو قاره اروپا و آسیا گسترده شده و ۱۱ منطقه زمانی دارد."
+  },
+  {
+    "id": 143,
+    "difficulty": "easy",
+    "category": "geography",
+    "categoryLabel": "جغرافیای ایران",
+    "bgTheme": "geography",
+    "bgImageKey": "deep_ocean",
+    "motifLabel": "بزرگ‌ترین دریاچه جهان",
+    "question": "بزرگ‌ترین پهنه آبی محصور در خشکی (بزرگ‌ترین دریاچه) کره زمین که در شمال ایران قرار دارد چیست؟",
+    "options": [
+      "دریاچه ویکتوریا",
+      "دریای خزر (کاسپین)",
+      "دریاچه سوپریور",
+      "دریاچه بایکال"
+    ],
+    "correctIndex": 1,
+    "explanation": "دریای خزر با مساحت حدود ۳۷۱ هزار کیلومتر مربع بزرگ‌ترین دریاچه بسته جهان است و میان پنج کشور از جمله ایران مشترک است."
+  },
+  {
+    "id": 144,
+    "difficulty": "easy",
+    "category": "geography",
+    "categoryLabel": "جغرافیای طبیعی",
+    "bgTheme": "geography",
+    "bgImageKey": "geography",
+    "motifLabel": "بیابان بزرگ صحرا",
+    "question": "بزرگ‌ترین بیابان گرم کره زمین در شمال قاره آفریقا چه نام دارد؟",
+    "options": [
+      "بیابان گبی",
+      "صحرای بزرگ آفریقا (Sahara)",
+      "بیابان کالاهاری",
+      "صحرای آتاکاما"
+    ],
+    "correctIndex": 1,
+    "explanation": "صحرای بزرگ آفریقا بیش از ۹ میلیون کیلومتر مربع وسعت دارد و بخش بزرگی از شمال آفریقا را فرا گرفته است."
+  },
+  {
+    "id": 145,
+    "difficulty": "medium",
+    "category": "geography",
+    "categoryLabel": "شگفتی‌های زمین",
+    "bgTheme": "geography",
+    "bgImageKey": "deep_ocean",
+    "motifLabel": "گودال ماریانا در اقیانوس آرام",
+    "question": "عمیق‌ترین نقطه شناخته‌شده در اقیانوس‌های زمین (حدود ۱۱ کیلومتر عمق) چه نام دارد؟",
+    "options": [
+      "گودال جاوه",
+      "درازگودال ماریانا (چلنجر دیپ)",
+      "گودال پورتوریکو",
+      "دریای سرخ"
+    ],
+    "correctIndex": 1,
+    "explanation": "گودال ماریانا در غرب اقیانوس آرام واقع شده و عمق نقطه چلنجر در آن نزدیک به ۱۰٬۹۸۴ متر زیر سطح آب است."
+  },
+  {
+    "id": 146,
+    "difficulty": "medium",
+    "category": "geography",
+    "categoryLabel": "جغرافیای سیاسی",
+    "bgTheme": "geography",
+    "bgImageKey": "geography",
+    "motifLabel": "پایتخت کشورها",
+    "question": "پایتخت کشور استرالیا کدام شهر است؟",
+    "options": [
+      "سیدنی",
+      "ملبورن",
+      "کانبرا",
+      "پرت"
+    ],
+    "correctIndex": 2,
+    "explanation": "در سال ۱۹۰۸ برای پایان دادن به رقابت میان سیدنی و ملبورن، شهر کانبرا به عنوان پایتخت فدرال استرالیا طراحی و انتخاب شد."
+  },
+  {
+    "id": 147,
+    "difficulty": "medium",
+    "category": "geography",
+    "categoryLabel": "جغرافیای طبیعی",
+    "bgTheme": "geography",
+    "bgImageKey": "deep_ocean",
+    "motifLabel": "دریاچه بایکال سیبری",
+    "question": "عمیق‌ترین و پرحجم‌ترین دریاچه آب شیرین جهان کدام است؟",
+    "options": [
+      "دریاچه تانگانیکا",
+      "دریاچه بایکال",
+      "دریاچه میشیگان",
+      "دریاچه ارومیه"
+    ],
+    "correctIndex": 1,
+    "explanation": "دریاچه بایکال در سیبری روسیه با عمق ۱۶۴۲ متر حدود ۲۰ درصد کل آب شیرین سطحی غیرمنجمد جهان را در خود دارد."
+  },
+  {
+    "id": 148,
+    "difficulty": "medium",
+    "category": "geography",
+    "categoryLabel": "آبراهه‌ها و تنگه‌ها",
+    "bgTheme": "geography",
+    "bgImageKey": "deep_ocean",
+    "motifLabel": "تنگه هرمز و خلیج فارس",
+    "question": "کدام آبراهه راهبردی خلیج فارس را به دریای عمان و اقیانوس هند متصل می‌کند؟",
+    "options": [
+      "تنگه باب‌المندب",
+      "تنگه هرمز",
+      "تنگه بسفر",
+      "کانال سوئز"
+    ],
+    "correctIndex": 1,
+    "explanation": "تنگه هرمز در جنوب ایران یکی از مهم‌ترین گذرگاه‌های کشتیرانی و ترانزیت انرژی جهان است."
+  },
+  {
+    "id": 149,
+    "difficulty": "medium",
+    "category": "geography",
+    "categoryLabel": "کوه‌های جهان",
+    "bgTheme": "geography",
+    "bgImageKey": "everest_peaks",
+    "motifLabel": "رشته‌کوه آند آمریکای جنوبی",
+    "question": "طولانی‌ترین رشته‌کوه قاره‌ای کره زمین که در امتداد غرب آمریکای جنوبی کشیده شده کدام است؟",
+    "options": [
+      "راکی",
+      "آلپ",
+      "آند (Andes)",
+      "زاگرس"
+    ],
+    "correctIndex": 2,
+    "explanation": "رشته‌کوه آند با طولی حدود ۷۰۰۰ کیلومتر از ونزوئلا تا نوک جنوبی شیلی و آرژانتین امتداد دارد."
+  },
+  {
+    "id": 150,
+    "difficulty": "medium",
+    "category": "geography",
+    "categoryLabel": "جغرافیای جهان",
+    "bgTheme": "geography",
+    "bgImageKey": "geography",
+    "motifLabel": "جزیره گرینلند",
+    "question": "بزرگ‌ترین جزیره غیرقاره‌ای جهان که بخش عمده آن پوشیده از یخ است کدام است؟",
+    "options": [
+      "ماداگاسکار",
+      "بورنئو",
+      "گرینلند",
+      "گینه نو"
+    ],
+    "correctIndex": 2,
+    "explanation": "گرینلند با مساحت بیش از ۲٫۱ میلیون کیلومتر مربع بزرگ‌ترین جزیره جهان است و قلمرو خودمختار دانمارک محسوب می‌شود."
+  },
+  {
+    "id": 151,
+    "difficulty": "medium",
+    "category": "geography",
+    "categoryLabel": "جغرافیای ایران",
+    "bgTheme": "geography",
+    "bgImageKey": "persepolis_iran",
+    "motifLabel": "تمدن و رودهای ایران",
+    "question": "طولانی‌ترین و تنها رود قابل کشتیرانی ایران که از کوه‌های بختیاری سرچشمه می‌گیرد کدام است؟",
+    "options": [
+      "سفیدرود",
+      "کارون",
+      "زاینده‌رود",
+      "ارس"
+    ],
+    "correctIndex": 1,
+    "explanation": "رود کارون با طول حدود ۹۵۰ کیلومتر بزرگ‌ترین و پرآب‌ترین رودخانه ایران است و از اهواز و خرمشهر می‌گذرد."
+  },
+  {
+    "id": 152,
+    "difficulty": "medium",
+    "category": "geography",
+    "categoryLabel": "جغرافیای طبیعی",
+    "bgTheme": "geography",
+    "bgImageKey": "everest_peaks",
+    "motifLabel": "آبشار آنخل ونزوئلا",
+    "question": "بلندترین آبشار پیوسته جهان با سقوط آزاد حدود ۹۷۹ متر در کدام کشور قرار دارد؟",
+    "options": [
+      "برزیل",
+      "ونزوئلا (آبشار آنخل)",
+      "کانادا",
+      "نروژ"
+    ],
+    "correctIndex": 1,
+    "explanation": "آبشار آنخل (Salto Ángel) از فلات آویان‌تپویی در پارک ملی کانایمای ونزوئلا به پایین می‌ریزد."
+  },
+  {
+    "id": 153,
+    "difficulty": "hard",
+    "category": "geography",
+    "categoryLabel": "جغرافیای آب و هوایی",
+    "bgTheme": "geography",
+    "bgImageKey": "geography",
+    "motifLabel": "بیابان آتاکاما شیلی",
+    "question": "خشک‌ترین بیابان غیرقطبی کره زمین که در برخی نقاط آن دهه‌ها باران نمی‌بارد کدام است؟",
+    "options": [
+      "دشت لوت",
+      "بیابان آتاکاما در شیلی",
+      "صحرای موهاوی",
+      "بیابان ویکتوریا"
+    ],
+    "correctIndex": 1,
+    "explanation": "سایه باران رشته‌کوه آند و جریان سرد هومبولت در اقیانوس آرام، بیابان آتاکاما را به خشک‌ترین منطقه غیرقطبی زمین تبدیل کرده است."
+  },
+  {
+    "id": 154,
+    "difficulty": "hard",
+    "category": "geography",
+    "categoryLabel": "زمین‌شناسی و اقیانوس",
+    "bgTheme": "geography",
+    "bgImageKey": "deep_ocean",
+    "motifLabel": "حلقه آتش اقیانوس آرام",
+    "question": "بیش از ۷۵ درصد آتشفشان‌های فعال و حدود ۹۰ درصد زمین‌لرزه‌های بزرگ جهان در کدام کمربند زمین‌شناختی رخ می‌دهند؟",
+    "options": [
+      "کمربند مدیترانه‌ای",
+      "حلقه آتش اقیانوس آرام (Ring of Fire)",
+      "پشته‌میانی اطلس",
+      "کافت شرق آفریقا"
+    ],
+    "correctIndex": 1,
+    "explanation": "فرورانش صفحات تکتونیکی در پیرامون حوضه اقیانوس آرام، نوار نعلی‌شکل حلقه آتش را به فعال‌ترین منطقه لرزه‌ای زمین تبدیل کرده است."
+  },
+  {
+    "id": 155,
+    "difficulty": "hard",
+    "category": "geography",
+    "categoryLabel": "جغرافیای سیاسی",
+    "bgTheme": "geography",
+    "bgImageKey": "geography",
+    "motifLabel": "نصف‌النهار مبدأ گرینویچ",
+    "question": "در میان کشورهای زیر، خط استوا و نصف‌النهار مبدأ (صفر درجه) نزدیک سواحل کدام قاره با هم تقاطع دارند؟",
+    "options": [
+      "آمریکای جنوبی",
+      "آفریقا (خلیج گینه)",
+      "آسیا",
+      "استرالیا"
+    ],
+    "correctIndex": 1,
+    "explanation": "تقاطع عرض جغرافیایی ۰ و طول جغرافیایی ۰ در آب‌های اقیانوس اطلس و در خلیج گینه در غرب آفریقا قرار دارد."
+  },
+  {
+    "id": 156,
+    "difficulty": "hard",
+    "category": "geography",
+    "categoryLabel": "جغرافیای طبیعی",
+    "bgTheme": "geography",
+    "bgImageKey": "everest_peaks",
+    "motifLabel": "کوه‌های هیمالیا و صفحه هند",
+    "question": "رشته‌کوه هیمالیا حاصل برخورد کدام دو صفحه تکتونیکی است؟",
+    "options": [
+      "صفحه آفریقا و صفحه آرام",
+      "صفحه هند و صفحه اوراسیا",
+      "صفحه عربستان و صفحه نازکا",
+      "صفحه آمریکای شمالی و صفحه کوکوس"
+    ],
+    "correctIndex": 1,
+    "explanation": "حرکت رو به شمال صفحه هند و برخورد مداوم آن با صفحه اوراسیا همچنان باعث رشد سالانه چند میلی‌متری کوه‌های هیمالیا می‌شود."
+  },
+  {
+    "id": 157,
+    "difficulty": "hard",
+    "category": "geography",
+    "categoryLabel": "اقیانوس‌شناسی",
+    "bgTheme": "geography",
+    "bgImageKey": "deep_ocean",
+    "motifLabel": "جریان گرم گلف‌استریم",
+    "question": "کدام جریان اقیانوسی عظیم با انتقال آب‌های گرم خلیج مکزیک، زمستان‌های غرب اروپا را معتدل‌تر می‌کند؟",
+    "options": [
+      "جریان هومبولت",
+      "گلف‌استریم (Gulf Stream)",
+      "جریان بنگوئلا",
+      "جریان کالیفرنیا"
+    ],
+    "correctIndex": 1,
+    "explanation": "گلف‌استریم و ادامه آن یعنی جریان اطلس شمالی حجم عظیمی از گرما را به عرض‌های شمالی اروپا منتقل می‌کند."
+  },
+  {
+    "id": 158,
+    "difficulty": "hard",
+    "category": "geography",
+    "categoryLabel": "جغرافیای کشورها",
+    "bgTheme": "geography",
+    "bgImageKey": "geography",
+    "motifLabel": "تنوع مرزهای دریایی و خشکی",
+    "question": "کدام کشور بیشترین تعداد همسایه خاکی (۱۴ کشور هم‌مرز) را در جهان دارد؟",
+    "options": [
+      "روسیه و چین (هر دو با ۱۴ همسایه)",
+      "برزیل",
+      "آلمان",
+      "ایران"
+    ],
+    "correctIndex": 0,
+    "explanation": "چین و روسیه هر کدام با ۱۴ کشور همسایه خاکی در صدر فهرست کشورهای جهان از نظر تعداد همسایه هستند."
+  },
+  {
+    "id": 159,
+    "difficulty": "hard",
+    "category": "geography",
+    "categoryLabel": "جغرافیای زمین",
+    "bgTheme": "geography",
+    "bgImageKey": "deep_ocean",
+    "motifLabel": "دیواره بزرگ مرجانی استرالیا",
+    "question": "بزرگ‌ترین سامانه صخره‌های مرجانی جهان (دیواره بزرگ مرجانی) در سواحل شمال‌شرقی کدام کشور قرار دارد؟",
+    "options": [
+      "اندونزی",
+      "استرالیا",
+      "فیلیپین",
+      "مکزیک"
+    ],
+    "correctIndex": 1,
+    "explanation": "دیواره بزرگ مرجانی بیش از ۲۳۰۰ کیلومتر در دریای مرجان در ساحل کوئینزلند استرالیا امتداد دارد و از فضا نیز قابل مشاهده است."
+  },
+  {
+    "id": 160,
+    "difficulty": "easy",
+    "category": "arts_math",
+    "categoryLabel": "ادبیات فارسی",
+    "bgTheme": "arts_math",
+    "bgImageKey": "arts_math",
+    "motifLabel": "شاهنامه و فرهنگ ایران",
+    "question": "سراینده حماسه سترگ «شاهنامه» که نقش اساسی در پاسداشت زبان فارسی داشت کیست؟",
+    "options": [
+      "سعدی شیرازی",
+      "حکیم ابوالقاسم فردوسی",
+      "نظامی گنجوی",
+      "حافظ شیرازی"
+    ],
+    "correctIndex": 1,
+    "explanation": "فردوسی طوسی طی حدود سی سال شاهنامه را در نزدیک به پنجاه تا شصت هزار بیت در بحر متقارب سرود."
+  },
+  {
+    "id": 161,
+    "difficulty": "easy",
+    "category": "arts_math",
+    "categoryLabel": "ریاضی پایه",
+    "bgTheme": "arts_math",
+    "bgImageKey": "arts_math",
+    "motifLabel": "هندسه و زوایای مثلث",
+    "question": "مجموع زوایای داخلی هر مثلث در هندسه اقلیدسی چند درجه است؟",
+    "options": [
+      "۹۰ درجه",
+      "۱۸۰ درجه",
+      "۲۷۰ درجه",
+      "۳۶۰ درجه"
+    ],
+    "correctIndex": 1,
+    "explanation": "در هندسه مسطحه اقلیدسی، مجموع سه زاویه داخلی هر مثلث همواره دقیقاً ۱۸۰ درجه است."
+  },
+  {
+    "id": 162,
+    "difficulty": "easy",
+    "category": "arts_math",
+    "categoryLabel": "هنر نقاشی",
+    "bgTheme": "arts_math",
+    "bgImageKey": "renaissance_art",
+    "motifLabel": "تابلوی مونالیزا و رنسانس",
+    "question": "تابلوی معروف «مونالیزا» (لبخند ژوکوند) اثر کدام هنرمند دوره رنسانس است؟",
+    "options": [
+      "میکل‌آنژ",
+      "لئوناردو داوینچی",
+      "رافائل",
+      "ونسان ون گوگ"
+    ],
+    "correctIndex": 1,
+    "explanation": "لئوناردو داوینچی نقاشی مونالیزا را در اوایل قرن شانزدهم آغاز کرد و این اثر اکنون در موزه لوور پاریس نگهداری می‌شود."
+  },
+  {
+    "id": 163,
+    "difficulty": "easy",
+    "category": "arts_math",
+    "categoryLabel": "ادبیات فارسی",
+    "bgTheme": "arts_math",
+    "bgImageKey": "arts_math",
+    "motifLabel": "گلستان و بوستان سعدی",
+    "question": "شعر مشهور «بنی آدم اعضای یکدیگرند» سروده کدام شاعر بزرگ ایرانی در کتاب گلستان است؟",
+    "options": [
+      "حافظ",
+      "سعدی شیرازی",
+      "مولانا",
+      "رودکی"
+    ],
+    "correctIndex": 1,
+    "explanation": "سعدی در باب اول گلستان این ابیات جهان‌شمول را سروده که به نمادی از همدلی و نوع‌دوستی انسانی تبدیل شده است."
+  },
+  {
+    "id": 164,
+    "difficulty": "easy",
+    "category": "arts_math",
+    "categoryLabel": "ریاضیات",
+    "bgTheme": "arts_math",
+    "bgImageKey": "arts_math",
+    "motifLabel": "اعداد اول در نظریه اعداد",
+    "question": "کوچک‌ترین و تنها عدد «اول زوج» در ریاضیات کدام است؟",
+    "options": [
+      "۱",
+      "۲",
+      "۴",
+      "۶"
+    ],
+    "correctIndex": 1,
+    "explanation": "عدد ۲ تنها بر ۱ و خودش بخش‌پذیر است؛ هر عدد زوج بزرگ‌تر از ۲ بر ۲ بخش‌پذیر بوده و مرکب است (عدد ۱ طبق تعریف اول نیست)."
+  },
+  {
+    "id": 165,
+    "difficulty": "easy",
+    "category": "arts_math",
+    "categoryLabel": "هنر و موسیقی",
+    "bgTheme": "arts_math",
+    "bgImageKey": "renaissance_art",
+    "motifLabel": "سمفونی نهم بتهوون",
+    "question": "کدام آهنگساز نابغه آلمانی با وجود ناشنوایی کامل در سال‌های پایانی عمر، سمفونی نهم (سرود شادی) را تصنیف کرد؟",
+    "options": [
+      "ولفگانگ موتسارت",
+      "لودویگ فان بتهوون",
+      "یوهان سباستین باخ",
+      "فردریک شوپن"
+    ],
+    "correctIndex": 1,
+    "explanation": "بتهوون سمفونی نهم خود را در سال ۱۸۲۴ در حالی رهبری و عرضه کرد که کاملاً ناشنوا شده بود."
+  },
+  {
+    "id": 166,
+    "difficulty": "medium",
+    "category": "arts_math",
+    "categoryLabel": "ریاضیات و نسبت طلایی",
+    "bgTheme": "arts_math",
+    "bgImageKey": "renaissance_art",
+    "motifLabel": "دنباله فیبوناچی و نسبت طلایی",
+    "question": "در دنباله فیبوناچی (۱، ۱، ۲، ۳، ۵، ۸، ۱۳، ۲۱، ...) عدد بعدی پس از ۲۱ کدام است؟",
+    "options": [
+      "۲۹",
+      "۳۴",
+      "۳۵",
+      "۴۲"
+    ],
+    "correctIndex": 1,
+    "explanation": "در دنباله فیبوناچی هر جمله برابر مجموع دو جمله پیشین خود است؛ بنابراین ۱۳ + ۲۱ = ۳۴."
+  },
+  {
+    "id": 167,
+    "difficulty": "medium",
+    "category": "arts_math",
+    "categoryLabel": "هندسه و تاریخ ریاضی",
+    "bgTheme": "arts_math",
+    "bgImageKey": "arts_math",
+    "motifLabel": "غیاث‌الدین جمشید کاشانی و عدد پی",
+    "question": "کدام ریاضی‌دان بزرگ ایرانی در قرن نهم هجری عدد پی (π) را با دقت بی‌سابقه ۱۶ رقم اعشار محاسبه کرد؟",
+    "options": [
+      "عمر خیام",
+      "غیاث‌الدین جمشید کاشانی",
+      "بهاالدین عاملی",
+      "ملاصدرا"
+    ],
+    "correctIndex": 1,
+    "explanation": "کاشانی در «الرسالة المحیطیه» با روش چندضلعی‌های محاطی، عدد ۲π و π را تا شانزده رقم اعشار دقیق به دست آورد."
+  },
+  {
+    "id": 168,
+    "difficulty": "medium",
+    "category": "arts_math",
+    "categoryLabel": "هنر نقاشی مدرن",
+    "bgTheme": "arts_math",
+    "bgImageKey": "renaissance_art",
+    "motifLabel": "شب پرستاره ون گوگ",
+    "question": "تابلوی پرآوازه «شب پرستاره» (The Starry Night) اثر کدام نقاش پست‌امپرسیونیست است؟",
+    "options": [
+      "کلود مونه",
+      "ونسان ون گوگ",
+      "پابلو پیکاسو",
+      "سالوادور دالی"
+    ],
+    "correctIndex": 1,
+    "explanation": "ونسان ون گوگ این اثر را در ژوئن ۱۸۸۹ خلق کرد که با چرخش‌های پویای آسمان شب و درخت سرو شناخته می‌شود."
+  },
+  {
+    "id": 169,
+    "difficulty": "medium",
+    "category": "arts_math",
+    "categoryLabel": "ادبیات و فلسفه",
+    "bgTheme": "arts_math",
+    "bgImageKey": "arts_math",
+    "motifLabel": "مثنوی معنوی و دیوان شمس",
+    "question": "اثر عرفانی-ادبی شش‌دفتری «مثنوی معنوی» سروده کدام شاعر و عارف سده هفتم هجری است؟",
+    "options": [
+      "شیخ محمود شبستری",
+      "مولانا جلال‌الدین بلخی",
+      "سنایی غزنوی",
+      "حافظ شیرازی"
+    ],
+    "correctIndex": 1,
+    "explanation": "مولانا مثنوی معنوی را در حدود ۲۶ هزار بیت با محوریت تمثیل‌های حکمت‌آمیز و عرفانی سرود."
+  },
+  {
+    "id": 170,
+    "difficulty": "medium",
+    "category": "arts_math",
+    "categoryLabel": "هندسه اقلیدسی",
+    "bgTheme": "arts_math",
+    "bgImageKey": "arts_math",
+    "motifLabel": "قضیه فیثاغورس",
+    "question": "در یک مثلث قائم‌الزاویه با اضلاع قائمه ۳ و ۴ واحد، طول وتر برابر چند واحد است؟",
+    "options": [
+      "۵",
+      "۶",
+      "۷",
+      "۱۲"
+    ],
+    "correctIndex": 0,
+    "explanation": "طبق قضیه فیثاغورس: ۳² + ۴² = ۹ + ۱۶ = ۲۵ و جذر ۲۵ برابر ۵ است."
+  },
+  {
+    "id": 171,
+    "difficulty": "medium",
+    "category": "arts_math",
+    "categoryLabel": "هنر و مجسمه‌سازی",
+    "bgTheme": "arts_math",
+    "bgImageKey": "renaissance_art",
+    "motifLabel": "مجسمه داوود و سقف سیستین",
+    "question": "مجسمه مرمرین «داوود» و نقاشی‌های سقف کلیسای سیستین شاهکار کدام هنرمند رنسانس است؟",
+    "options": [
+      "دوناتلو",
+      "میکل‌آنژ بوناروتی",
+      "برنینی",
+      "بوتیچلی"
+    ],
+    "correctIndex": 1,
+    "explanation": "میکل‌آنژ در سن ۲۹ سالگی مجسمه داوود را تراشید و سپس نقاشی سقف سیستین در واتیکان را آفرید."
+  },
+  {
+    "id": 172,
+    "difficulty": "medium",
+    "category": "arts_math",
+    "categoryLabel": "ادبیات جهان",
+    "bgTheme": "arts_math",
+    "bgImageKey": "arts_math",
+    "motifLabel": "آثار ویلیام شکسپیر",
+    "question": "نمایشنامه‌های جاودان «هملت»، «مکبث» و «اتللو» نوشته کدام نمایشنامه‌نویس انگلیسی است؟",
+    "options": [
+      "چارلز دیکنز",
+      "ویلیام شکسپیر",
+      "کریستوفر مارلو",
+      "جورج اورول"
+    ],
+    "correctIndex": 1,
+    "explanation": "ویلیام شکسپیر (۱۵۶۴–۱۶۱۶) برجسته‌ترین نمایشنامه‌نویس زبان انگلیسی است که تراژدی‌ها و کمدی‌هایش هنوز روی صحنه می‌روند."
+  },
+  {
+    "id": 173,
+    "difficulty": "medium",
+    "category": "arts_math",
+    "categoryLabel": "احتمال و آمار",
+    "bgTheme": "arts_math",
+    "bgImageKey": "arts_math",
+    "motifLabel": "احتمال در پرتاب سکه",
+    "question": "در پرتاب هم‌زمان دو سکه سالم، احتمال اینکه هر دو سکه «رو» (شیر) بیایند چقدر است؟",
+    "options": [
+      "۱/۲ (۵۰٪)",
+      "۱/۴ (۲۵٪)",
+      "۱/۳ (۳۳٪)",
+      "۳/۴ (۷۵٪)"
+    ],
+    "correctIndex": 1,
+    "explanation": "چهار حالت هم‌شانس وجود دارد (شیر-شیر، شیر-خط، خط-شیر، خط-خط) که تنها یک حالت مطلوب است؛ یعنی ۱/۴ یا ۲۵ درصد."
+  },
+  {
+    "id": 174,
+    "difficulty": "hard",
+    "category": "arts_math",
+    "categoryLabel": "ریاضیات پیشرفته",
+    "bgTheme": "arts_math",
+    "bgImageKey": "arts_math",
+    "motifLabel": "اتحاد زیبای اویلر",
+    "question": "کدام پنج ثابت بنیادین ریاضی در معادله معروف «هویت اویلر» (e^(iπ) + 1 = 0) به هم پیوند می‌خورند؟",
+    "options": [
+      "e، i، π، ۱ و ۰",
+      "φ، i، π، ۲ و ۰",
+      "e، γ، π، ۱ و ۲",
+      "√2، e، π، ۱ و ۰"
+    ],
+    "correctIndex": 0,
+    "explanation": "معادله اویلر که اغلب زیباترین فرمول ریاضی نامیده می‌شود، آنالیز، جبر و هندسه را با پنج عدد ۰، ۱، π، e و i پیوند می‌دهد."
+  },
+  {
+    "id": 175,
+    "difficulty": "hard",
+    "category": "arts_math",
+    "categoryLabel": "نظریه اعداد",
+    "bgTheme": "arts_math",
+    "bgImageKey": "arts_math",
+    "motifLabel": "قضیه آخر فرما",
+    "question": "مسئله ۳۵۸ ساله «قضیه آخر فرما» سرانجام در سال ۱۹۹۴ توسط کدام ریاضی‌دان اثبات شد؟",
+    "options": [
+      "گریگوری پرلمان",
+      "اندرو وایلز",
+      "سرینیواسا رامانوجان",
+      "جان نش"
+    ],
+    "correctIndex": 1,
+    "explanation": "اندرو وایلز با پیوند دادن منحنی‌های بیضوی و فرم‌های پیمانه‌ای ثابت کرد برای n > 2 معادله x^n + y^n = z^n جواب صحیح مثبت ندارد."
+  },
+  {
+    "id": 176,
+    "difficulty": "hard",
+    "category": "arts_math",
+    "categoryLabel": "نظریه مجموعه‌ها",
+    "bgTheme": "arts_math",
+    "bgImageKey": "arts_math",
+    "motifLabel": "بی‌نهایت‌های کانتور",
+    "question": "کدام ریاضی‌دان با «استدلال قطری» ثابت کرد بی‌نهایت اعداد حقیقی از بی‌نهایت اعداد طبیعی بزرگ‌تر (ناشمارا) است؟",
+    "options": [
+      "لئوپولد کرونکر",
+      "گئورگ کانتور",
+      "آگوستین کوشی",
+      "بلاز پاسکال"
+    ],
+    "correctIndex": 1,
+    "explanation": "گئورگ کانتور، بنیان‌گذار نظریه مجموعه‌ها، نشان داد که کاردینالیتی‌های متفاوتی برای بی‌نهایت وجود دارد."
+  },
+  {
+    "id": 177,
+    "difficulty": "hard",
+    "category": "arts_math",
+    "categoryLabel": "هنر و هندسه ایرانی",
+    "bgTheme": "arts_math",
+    "bgImageKey": "persepolis_iran",
+    "motifLabel": "گره‌چینی و کاشی‌کاری ایرانی",
+    "question": "پژوهشگران فیزیک در سال ۲۰۰۷ نشان دادند طرح‌های گره‌چینی سده پانزدهم میلادی در بناهای ایرانی پیش‌نمایی از کدام ساختار هندسی مدرن بوده‌اند؟",
+    "options": [
+      "هندسه هذلولی",
+      "شبه‌بلورها و کاشی‌کاری پنروز (تکرارناپذیر)",
+      "مکعب‌های چهاربعدی",
+      "توروس ریمانی"
+    ],
+    "correctIndex": 1,
+    "explanation": "الگوهای کاشی‌کاری گره در بناهایی مانند درب امام اصفهان با تقارن پنج‌گانه بدون تکرار دوره‌ای، صدها سال پیش از کشف کاشی پنروز ساخته شده بودند."
+  },
+  {
+    "id": 178,
+    "difficulty": "hard",
+    "category": "arts_math",
+    "categoryLabel": "منطق و بازی‌ها",
+    "bgTheme": "arts_math",
+    "bgImageKey": "arts_math",
+    "motifLabel": "نظریه بازی‌ها و تعادل نش",
+    "question": "در «نظریه بازی‌ها» (Game Theory)، وضعیتی که در آن هیچ بازیکنی با تغییر یک‌جانبه راهبرد خود نمی‌تواند سود بیشتری ببرد چه نام دارد؟",
+    "options": [
+      "دوراهی زندانی",
+      "تعادل نش (Nash Equilibrium)",
+      "بهینگی پارتو",
+      "قضیه مینیماکس"
+    ],
+    "correctIndex": 1,
+    "explanation": "جان نش مفهوم تعادل نش را صورت‌بندی کرد که یکی از پایه‌های اقتصاد نوین، زیست‌شناسی تکاملی و طراحی سیستم‌های چندعاملی است."
+  },
+  {
+    "id": 179,
+    "difficulty": "hard",
+    "category": "arts_math",
+    "categoryLabel": "معماری و هنر",
+    "bgTheme": "arts_math",
+    "bgImageKey": "renaissance_art",
+    "motifLabel": "ژرفانمایی خطی در نقاشی رنسانس",
+    "question": "قاعده «ژرفانمایی خطی» (پرسپکتیو تک‌نقطه‌ای) در هنر و معماری رنسانس نخستین بار توسط کدام معمار فلورانسی فرمول‌بندی شد؟",
+    "options": [
+      "فیلیپو برونلسکی",
+      "جورجو وازاری",
+      "آندره‌آ پالادیو",
+      "گوستاو ایفل"
+    ],
+    "correctIndex": 0,
+    "explanation": "فیلیپو برونلسکی (طراح گنبد کلیسای جامع فلورانس) اصول ریاضی ژرفانمایی را برای نمایش عمق سه‌بعدی روی سطح دوبعدی ابداع کرد."
+  },
+  {
+    "id": 180,
+    "difficulty": "hard",
+    "category": "arts_math",
+    "categoryLabel": "حساب دیفرانسیل",
+    "bgTheme": "arts_math",
+    "bgImageKey": "arts_math",
+    "motifLabel": "پیدایش حسابان (Calculus)",
+    "question": "حساب دیفرانسیل و انتگرال (Calculus) در سده هفدهم به طور مستقل توسط کدام دو دانشمند بنیان‌گذاری شد؟",
+    "options": [
+      "گالیله و کپلر",
+      "آیزاک نیوتن و گوتفرید ویلهلم لایبنیتس",
+      "رنه دکارت و پیر دو فرما",
+      "اوکلیدس و ارشمیدس"
+    ],
+    "correctIndex": 1,
+    "explanation": "نیوتن و لایبنیتس به طور مستقل مبانی مشتق و انتگرال را تدوین کردند و نمادگذاری امروزی (dx و ∫) عمدتاً میراث لایبنیتس است."
+  }
+]

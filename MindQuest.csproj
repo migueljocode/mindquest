@@ -1,0 +1,55 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Version>0.0.0</Version>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>MindQuest</AssemblyName>
+    <RootNamespace>MindQuest</RootNamespace>
+
+    <!-- Default Self-Contained Trimmed Single-File for Linux x64 (also supports win-x64) -->
+    <RuntimeIdentifier>linux-x64</RuntimeIdentifier>
+    <RuntimeIdentifiers>linux-x64;win-x64</RuntimeIdentifiers>
+    <SelfContained>true</SelfContained>
+    <PublishSingleFile>true</PublishSingleFile>
+    <PublishTrimmed>true</PublishTrimmed>
+    <TrimMode>partial</TrimMode>
+    <EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+
+    <!-- Minimal output & zero-bloat publish configuration -->
+    <DebugType>none</DebugType>
+    <DebugSymbols>false</DebugSymbols>
+    <GenerateDocumentationFile>false</GenerateDocumentationFile>
+    <SatelliteResourceLanguages>en</SatelliteResourceLanguages>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <PublishReadyToRun>false</PublishReadyToRun>
+    <EmbedAllSources>false</EmbedAllSources>
+    <ErrorOnDuplicatePublishOutputFiles>false</ErrorOnDuplicatePublishOutputFiles>
+    <JsonSerializerIsReflectionEnabledByDefault>false</JsonSerializerIsReflectionEnabledByDefault>
+    <EnableDefaultEmbeddedResourceItems>false</EnableDefaultEmbeddedResourceItems>
+    <IsWebConfigTransformDisabled>true</IsWebConfigTransformDisabled>
+    <CompressionEnabled>false</CompressionEnabled>
+    <StaticWebAssetsEnabled>false</StaticWebAssetsEnabled>
+
+    <!-- Aggressive runtime feature stripping for smallest trimmed single-file binary -->
+    <DebuggerSupport>false</DebuggerSupport>
+    <EnableUnsafeBinaryFormatterSerialization>false</EnableUnsafeBinaryFormatterSerialization>
+    <EventSourceSupport>false</EventSourceSupport>
+    <HttpActivityPropagationSupport>false</HttpActivityPropagationSupport>
+    <MetricsSupport>false</MetricsSupport>
+    <MetadataUpdaterSupport>false</MetadataUpdaterSupport>
+    <StackTraceSupport>false</StackTraceSupport>
+    <UseSystemResourceKeys>true</UseSystemResourceKeys>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Data\questions.json" LogicalName="MindQuest.Data.questions.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="dist\**;node_modules\**;portable\**;src\**;shared\**;scripts\**;public\**;Data\**;publish\**;package*.json;tsconfig.json;vite.config.ts;index.html;metadata.json;README.md;bun.lock" />
+    <None Remove="dist\**;node_modules\**;portable\**;src\**;shared\**;scripts\**;public\**;Data\**;publish\**" />
+    <Content Update="wwwroot\**" CopyToPublishDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>

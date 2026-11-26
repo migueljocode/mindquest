@@ -1,0 +1,75 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: Build ${{ matrix.rid }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - rid: linux-x64
+            archive: mindquest-linux-x64.tar.gz
+          - rid: win-x64
+            archive: mindquest-windows-x64.zip
+          - rid: osx-arm64
+            archive: mindquest-osx-arm64.tar.gz
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - uses: oven-sh/setup-bun@v2
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 10.0.x
+      - run: bun install --frozen-lockfile
+      - run: bun run test
+      - run: bun run lint
+      - run: node scripts/sync-dotnet.mjs
+      - name: Publish self-contained app
+        run: dotnet publish MindQuest.csproj --configuration Release --runtime "${{ matrix.rid }}" --self-contained true --output package
+      - name: Package release asset
+        env:
+          ARCHIVE: ${{ matrix.archive }}
+        run: |
+          if [[ "$ARCHIVE" == *.zip ]]; then
+            (cd package && zip -qr "../$ARCHIVE" .)
+          else
+            tar -C package -czf "$ARCHIVE" .
+          fi
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.rid }}
+          path: ${{ matrix.archive }}
+          if-no-files-found: error
+          retention-days: 1
+
+  publish:
+    name: Publish GitHub release
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          path: assets
+          merge-multiple: true
+      - name: Generate checksums
+        run: cd assets && sha256sum mindquest-* > SHA256SUMS
+      - name: Create release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "$GITHUB_REF_NAME" assets/* \
+            --title "MindQuest $GITHUB_REF_NAME" \
+            --generate-notes

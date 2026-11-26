@@ -1,0 +1,6 @@
+{
+  "name": "MindQuest - بازی آموزشی کوییز",
+  "description": "یک بازی آموزشی کوییز تحت وب با نام MindQuest با سؤالات چهارگزینه‌ای، تایمر، سطوح سختی، ثبت رکورد و رابط کاربری مدرن.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
