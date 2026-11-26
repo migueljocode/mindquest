@@ -7,13 +7,13 @@ MindQuest is a self-hosted educational quiz app with solo play and real-time LAN
 **macOS (Apple Silicon) and Linux (x64)** — in a terminal:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/migueljocode/mindquest/main/scripts/install.sh | bash
+curl -fsSL https://github.com/migueljocode/mindquest/raw/refs/heads/main/scripts/install.sh | bash
 ```
 
 **Windows (x64)** — in PowerShell:
 
 ```powershell
-irm https://raw.githubusercontent.com/migueljocode/mindquest/main/scripts/install.ps1 | iex
+irm https://github.com/migueljocode/mindquest/raw/refs/heads/main/scripts/install.ps1 | iex
 ```
 
 The installers download the matching self-contained release and verify its SHA-256 checksum. They install for the current user without administrator access. The Unix installer places the `mindquest` command in `~/.local/bin`; add that directory to `PATH` if the installer says it is missing. The Windows installer adds its per-user install directory to `PATH`; open a new terminal if necessary.
