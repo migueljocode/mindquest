@@ -74,3 +74,4 @@ if [[ ":$PATH:" != *":$BIN_DIR:"* ]]; then
   echo "Add $BIN_DIR to your PATH to run 'mindquest' from any terminal."
 fi
 echo "Run: mindquest --port 8080 --no-https"
+echo "For default privileged ports (80/443), run: sudo \"$BIN_DIR/mindquest\""

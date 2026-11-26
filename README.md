@@ -26,6 +26,14 @@ mindquest --port 8080 --no-https
 
 Open [http://localhost:8080](http://localhost:8080). By default, the server listens on all network interfaces; use `--bind localhost` to restrict it to this computer, or share the machine's LAN address with other players. Stop the server with **Ctrl+C**.
 
+To use the default privileged ports (HTTP 80 and HTTPS 443) on Linux, run the per-user installation through its full path:
+
+```sh
+sudo "$(command -v mindquest)"
+```
+
+`sudo mindquest` may fail because `sudo` uses a restricted `PATH` that normally excludes `~/.local/bin`. Start a new terminal or add that directory to your `PATH` first so `command -v mindquest` can locate the launcher.
+
 Installers currently support **Linux x64**, **Windows x64**, and **macOS Apple Silicon (arm64)**. To install another release, set `MINDQUEST_VERSION` before running the installer (for example, `v0.0.0`). The current release is [v0.0.0](https://github.com/migueljocode/mindquest/releases/tag/v0.0.0).
 
 ## Server options
