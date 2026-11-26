@@ -44,11 +44,14 @@ echo "Downloading MindQuest $VERSION for $RID..."
 curl --fail --location --silent --show-error "$RELEASE_URL/$ARCHIVE" -o "$TEMP_DIR/$ARCHIVE"
 curl --fail --location --silent --show-error "$RELEASE_URL/SHA256SUMS" -o "$TEMP_DIR/SHA256SUMS"
 
-if [[ "$CHECKSUM_COMMAND" == "sha256sum" ]]; then
-  grep -F "  $ARCHIVE" "$TEMP_DIR/SHA256SUMS" | sha256sum --check -
-else
-  grep -F "  $ARCHIVE" "$TEMP_DIR/SHA256SUMS" | shasum -a 256 --check -
-fi
+(
+  cd "$TEMP_DIR"
+  if [[ "$CHECKSUM_COMMAND" == "sha256sum" ]]; then
+    grep -F "  $ARCHIVE" SHA256SUMS | sha256sum --check -
+  else
+    grep -F "  $ARCHIVE" SHA256SUMS | shasum -a 256 --check -
+  fi
+)
 
 mkdir -p "$INSTALL_DIR" "$BIN_DIR"
 tar -xzf "$TEMP_DIR/$ARCHIVE" -C "$INSTALL_DIR"
